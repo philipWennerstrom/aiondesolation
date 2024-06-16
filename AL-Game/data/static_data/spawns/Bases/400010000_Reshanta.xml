@@ -1,0 +1,2666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="400010000">
+        <!-- Asmos, Elyos Spawns Update - 02.10.16 -->
+        <base_spawn id="134"> <!-- Rattlefrost Outpost (Base 50) -->
+            <simple_race race="ASMODIANS">
+                <!-- Rattlefrost Outpost Flag -->
+                <spawn npc_id="805439">
+                    <spot x="2065.7109" y="1446.896" z="3001.5208" h="119"/>
+                </spawn>                
+                <spawn npc_id="883082" handler="BOSS">
+                    <spot x="2065.7551" y="1449.7083" z="2971.4553" h="28"/>
+                </spawn>
+                <spawn npc_id="805408" respawn_time="295">
+                    <spot x="2066.4805" y="1442.2817" z="2970.5303" h="93"/>
+                </spawn>
+                <spawn npc_id="805495" respawn_time="295">
+                    <spot x="2063.933" y="1442.5248" z="2970.5303" h="83"/>
+                </spawn>
+                <spawn npc_id="805496" respawn_time="295">
+                    <spot x="2062.0054" y="1443.8949" z="2970.5303" h="73"/>
+                </spawn>
+                <spawn npc_id="805497" respawn_time="295">
+                    <spot x="2068.5684" y="1443.2571" z="2970.5303" h="103"/>
+                </spawn>
+                <spawn npc_id="883083" respawn_time="295">
+                    <spot x="2085.7957" y="1470.0173" z="2964.3372" h="26"/>
+                    <spot x="2080.1672" y="1424.1636" z="2966.0215" h="116"/>
+                    <spot x="2037.2393" y="1447.6843" z="2965.0642" h="66"/>
+                </spawn>
+                <spawn npc_id="883084" respawn_time="295">
+                    <spot x="2061.05" y="1462.4438" z="2970.1428" h="33"/>
+                    <spot x="2069.3037" y="1447.6727" z="2970.8315" h="3"/>
+                </spawn>
+                <spawn npc_id="883085" respawn_time="295">
+                    <spot x="2062.1902" y="1448.2773" z="2970.8389" h="53"/>
+                </spawn>
+                <spawn npc_id="883086" respawn_time="295">
+                    <spot x="2079.8838" y="1456.3596" z="2970.223" h="13"/>
+                    <spot x="2073.153" y="1430.4023" z="2969.5613" h="100"/>
+                    <spot x="2044.9412" y="1450.0413" z="2967.9026" h="56"/>
+                </spawn>
+                <spawn npc_id="883087" respawn_time="295">
+                    <spot x="2081.1382" y="1442.7177" z="2969.8325" h="116"/>
+                    <spot x="2059.514" y="1430.5111" z="2969.912" h="90"/>
+                </spawn>
+
+                <spawn npc_id="883327" respawn_time="295">
+                    <spot x="1966.0371" y="1434.5472" z="2938.715" h="113"/>
+                    <spot x="2001.7836" y="1442.2787" z="2941.7522" h="106"/>
+                    <spot x="1974.5918" y="1401.4099" z="2939.5957" h="34"/>
+                    <spot x="1943.0496" y="1400.2626" z="2937.2688" h="54"/>
+                </spawn>
+                <spawn npc_id="883328" respawn_time="295">
+                    <spot x="1936.462" y="1362.202" z="2938.3967" h="23"/>
+                </spawn>
+                <spawn npc_id="883329" respawn_time="295">
+                    <spot x="1917.5123" y="1438.0187" z="2936.9685" h="63"/>
+                </spawn>
+                <spawn npc_id="883330" respawn_time="295">
+                    <spot x="1980.9276" y="1438.922" z="2939.7053" h="6"/>
+                </spawn>
+                <spawn npc_id="883331" respawn_time="295">
+                    <spot x="1933.7848" y="1421.0413" z="2937.2295" h="35"/>
+                </spawn>
+                <spawn npc_id="883333" respawn_time="295">
+                    <spot x="1990.1488" y="1539.7252" z="2947.7844" h="108"/>
+                    <spot x="1950.7349" y="1558.9082" z="2946.9944" h="9"/>
+                    <spot x="1963.0603" y="1509.0751" z="2945.627" h="68"/>
+                    <spot x="1931.7372" y="1505.0431" z="2945.2666" h="4"/>
+                </spawn>
+                <spawn npc_id="883334" respawn_time="295">
+                    <spot x="1947.7385" y="1539.2452" z="2947.2795" h="0"/>
+                </spawn>
+                <spawn npc_id="883335" respawn_time="295">
+                    <spot x="1986.1665" y="1487.6044" z="2944.3335" h="0"/>
+                </spawn>
+                <spawn npc_id="883336" respawn_time="295">
+                    <spot x="1990.7399" y="1518.5697" z="2946.0496" h="105"/>
+                </spawn>
+                <spawn npc_id="883337" respawn_time="295">
+                    <spot x="1930.9072" y="1518.9548" z="2946.544" h="118"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Rattlefrost Outpost Flag -->
+                <spawn npc_id="805438">
+                    <spot x="2065.7109" y="1446.896" z="3001.5208" h="119"/>
+                </spawn>
+                <spawn npc_id="883076" handler="BOSS">
+                    <spot x="2065.7551" y="1449.7083" z="2971.4553" h="28"/>
+                </spawn>
+                <spawn npc_id="805385" respawn_time="295">
+                    <spot x="2066.4805" y="1442.2817" z="2970.5303" h="93"/>
+                </spawn>
+                <spawn npc_id="805492" respawn_time="295">
+                    <spot x="2063.933" y="1442.5248" z="2970.5303" h="83"/>
+                </spawn>
+                <spawn npc_id="805493" respawn_time="295">
+                    <spot x="2062.0054" y="1443.8949" z="2970.5303" h="73"/>
+                </spawn>
+                <spawn npc_id="805494" respawn_time="295">
+                    <spot x="2068.5684" y="1443.2571" z="2970.5303" h="103"/>
+                </spawn>
+                <spawn npc_id="883077" respawn_time="295">
+                    <spot x="2080.1672" y="1424.1636" z="2966.0215" h="116"/>
+                    <spot x="2037.2393" y="1447.6843" z="2965.0642" h="66"/>
+                    <spot x="2085.7957" y="1470.0173" z="2964.3372" h="26"/>
+                </spawn>
+                <spawn npc_id="883078" respawn_time="295">
+                    <spot x="2069.3037" y="1447.6727" z="2970.8315" h="3"/>
+                    <spot x="2061.05" y="1462.4438" z="2970.1428" h="33"/>
+                </spawn>
+                <spawn npc_id="883079" respawn_time="295">
+                    <spot x="2062.1902" y="1448.2773" z="2970.8389" h="53"/>
+                </spawn>
+                <spawn npc_id="883080" respawn_time="295">
+                    <spot x="2073.153" y="1430.4023" z="2969.5613" h="100"/>
+                    <spot x="2044.9412" y="1450.0413" z="2967.9026" h="56"/>
+                    <spot x="2079.8838" y="1456.3596" z="2970.223" h="13"/>
+                </spawn>
+                <spawn npc_id="883081" respawn_time="295">
+                    <spot x="2059.514" y="1430.5111" z="2969.912" h="90"/>
+                    <spot x="2081.1382" y="1442.7177" z="2969.8325" h="116"/>
+                </spawn>
+
+                <spawn npc_id="883327" respawn_time="295">
+                    <spot x="2002.4302" y="1437.0569" z="2942.1287" h="1"/>
+                    <spot x="1974.9921" y="1403.9774" z="2939.8247" h="16"/>
+                    <spot x="1965.5497" y="1432.901" z="2938.9219" h="0"/>
+                    <spot x="1937.5083" y="1397.2446" z="2937.2537" h="15"/>
+                </spawn>
+                <spawn npc_id="883328" respawn_time="295">
+                    <spot x="1932.2529" y="1355.1997" z="2938.3142" h="93"/>
+                </spawn>
+                <spawn npc_id="883329" respawn_time="295">
+                    <spot x="1918.5645" y="1442.1014" z="2936.5532" h="100"/>
+                </spawn>
+                <spawn npc_id="883330" respawn_time="295">
+                    <spot x="1985.6294" y="1434.5879" z="2940.7896" h="116"/>
+                </spawn>
+                <spawn npc_id="883331" respawn_time="295">
+                    <spot x="1940.9791" y="1423.9564" z="2937.3289" h="111"/>
+                </spawn>
+                <spawn npc_id="883339" respawn_time="295">
+                    <spot x="1969.4746" y="1509.7905" z="2945.7065" h="23"/>
+                    <spot x="1930.0455" y="1502.9174" z="2945.0537" h="7"/>
+                    <spot x="1953.3336" y="1557.4528" z="2947.285" h="21"/>
+                    <spot x="1989.7705" y="1541.8257" z="2947.9194" h="15"/>
+                </spawn>
+                <spawn npc_id="883340" respawn_time="295">
+                    <spot x="1945.4003" y="1539.794" z="2947.1377" h="113"/>
+                </spawn>
+                <spawn npc_id="883341" respawn_time="295">
+                    <spot x="1986.1665" y="1487.6044" z="2944.3335" h="0"/>
+                </spawn>
+                <spawn npc_id="883342" respawn_time="295">
+                    <spot x="1990.9155" y="1520.0529" z="2946.0564" h="0"/>
+                </spawn>
+                <spawn npc_id="883343" respawn_time="295">
+                    <spot x="1931.2998" y="1520.5099" z="2946.58" h="5"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Rattlefrost Outpost Flag -->
+                <spawn npc_id="805440">
+                    <spot x="2065.7109" y="1446.896" z="3001.5208" h="119"/>
+                </spawn>
+                <spawn npc_id="882980" handler="BOSS">
+                    <spot x="2065.7551" y="1449.7083" z="2971.055" h="35"/>
+                </spawn>
+                <spawn npc_id="883326" handler="ATTACKER">
+                    <spot x="2066.4539" y="1456.3969" z="2970.6538" h="88"/>
+                </spawn>
+                <spawn npc_id="882981" respawn_time="295">
+                    <spot x="2080.1672" y="1424.1636" z="2966.0215" h="116"/>
+                    <spot x="2037.2393" y="1447.6843" z="2965.0642" h="66"/>
+                    <spot x="2085.7957" y="1470.0173" z="2964.3372" h="26"/>
+                </spawn>
+                <spawn npc_id="882982" respawn_time="295">
+                    <spot x="2069.3037" y="1447.6727" z="2970.8315" h="3"/>
+                    <spot x="2061.05" y="1462.4438" z="2970.1428" h="33"/>
+                </spawn>
+                <spawn npc_id="882983" respawn_time="295">
+                    <spot x="2062.1902" y="1448.2773" z="2970.8389" h="53"/>
+                </spawn>
+                <spawn npc_id="882984" respawn_time="295">
+                    <spot x="2073.153" y="1430.4023" z="2969.5613" h="100"/>
+                    <spot x="2044.9412" y="1450.0413" z="2967.9026" h="56"/>
+                    <spot x="2079.8838" y="1456.3596" z="2970.223" h="13"/>
+                </spawn>
+                <spawn npc_id="882985" respawn_time="295">
+                    <spot x="2059.514" y="1430.5111" z="2969.912" h="90"/>
+                    <spot x="2081.1382" y="1442.7177" z="2969.8325" h="116"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Balaur, Elyos and Asmos Spawns Update - 02.10.16 -->
+        <base_spawn id="135"> <!-- Sliversleet Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Sliversleet Outpost Flag -->
+                <spawn npc_id="805442">
+                    <spot x="2171.8245" y="1171.5811" z="3046.8975" h="119"/>
+                </spawn>            
+                <spawn npc_id="883094" handler="BOSS">
+                    <spot x="2170.4768" y="1174.1045" z="3017.9902" h="41"/>
+                </spawn>
+                <spawn npc_id="805409" respawn_time="295">
+                    <spot x="2176.41" y="1170.1956" z="3017.0122" h="116"/>
+                </spawn>
+                <spawn npc_id="805501" respawn_time="295">
+                    <spot x="2175.1292" y="1168.0546" z="3017.0122" h="106"/>
+                </spawn>
+                <spawn npc_id="805502" respawn_time="295">
+                    <spot x="2172.8416" y="1166.8036" z="3017.0125" h="96"/>
+                </spawn>
+                <spawn npc_id="805503" respawn_time="295">
+                    <spot x="2170.4395" y="1166.9314" z="3017.0122" h="83"/>
+                </spawn>
+                <spawn npc_id="883095" respawn_time="295">
+                    <spot x="2177.6802" y="1199.1237" z="3012.1057" h="33"/>
+                    <spot x="2197.595" y="1160.7673" z="3012.1785" h="3"/>
+                    <spot x="2147.4878" y="1155.4523" z="3011.0518" h="73"/>
+                </spawn>
+                <spawn npc_id="883096" respawn_time="295">
+                    <spot x="2159.7727" y="1181.7008" z="3016.5745" h="46"/>
+                    <spot x="2174.5435" y="1174.2087" z="3017.312" h="13"/>
+                </spawn>
+                <spawn npc_id="883097" respawn_time="295">
+                    <spot x="2168.2795" y="1170.5104" z="3017.315" h="66"/>
+                </spawn>
+                <spawn npc_id="883098" respawn_time="295">
+                    <spot x="2177.2693" y="1188.2" z="3016.4092" h="20"/>
+                    <spot x="2187.1565" y="1162.4038" z="3016.0793" h="113"/>
+                    <spot x="2150.3257" y="1161.0447" z="3013.0867" h="73"/>
+                </spawn>
+                <spawn npc_id="883099" respawn_time="295">
+                    <spot x="2186.4548" y="1178.6171" z="3016.289" h="10"/>
+                    <spot x="2176.3958" y="1154.3201" z="3016.3005" h="96"/>
+                </spawn>
+
+                <spawn npc_id="883346" respawn_time="295">
+                    <spot x="2004.0548" y="1171.8789" z="2962.6628" h="70"/>
+                    <spot x="1994.1167" y="1202.966" z="2951.6038" h="44"/>
+                    <spot x="1981.0933" y="1202.705" z="2951.916" h="54"/>
+                    <spot x="1949.2623" y="1229.9657" z="2956.296" h="51"/>
+                </spawn>
+                <spawn npc_id="883347" respawn_time="295">
+                    <spot x="1963.9113" y="1221.0464" z="2956.7092" h="4"/>
+                </spawn>
+                <spawn npc_id="883348" respawn_time="295">
+                    <spot x="1967.1533" y="1237.3436" z="2961.096" h="78"/>
+                </spawn>
+                <spawn npc_id="883349" respawn_time="295">
+                    <spot x="2029.28" y="1168.6938" z="2963.0645" h="46"/>
+                </spawn>
+                <spawn npc_id="883350" respawn_time="295">
+                    <spot x="2046.0228" y="1154.9836" z="2964.137" h="18"/>
+                </spawn>
+                <spawn npc_id="883352" respawn_time="295">
+                    <spot x="2226.922" y="1349.1532" z="2964.4048" h="65"/>
+                    <spot x="2275.0967" y="1343.9902" z="2984.36" h="77"/>
+                    <spot x="2269.6965" y="1356.5884" z="2981.711" h="13"/>
+                    <spot x="2225.0442" y="1395.0146" z="2962.6147" h="47"/>
+                </spawn>
+                <spawn npc_id="883353" respawn_time="295">
+                    <spot x="2254.9705" y="1354.0364" z="2975.241" h="6"/>
+                </spawn>
+                <spawn npc_id="883354" respawn_time="295">
+                    <spot x="2239.9487" y="1382.9492" z="2967.012" h="0"/>
+                </spawn>
+                <spawn npc_id="883355" respawn_time="295">
+                    <spot x="2213.193" y="1408.9491" z="2960.6248" h="35"/>
+                </spawn>
+                <spawn npc_id="883356" respawn_time="295">
+                    <spot x="2231.559" y="1362.4897" z="2964.9355" h="83"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Sliversleet Outpost Flag -->
+                <spawn npc_id="805441">
+                    <spot x="2171.8245" y="1171.5811" z="3046.8975" h="119"/>
+                </spawn>            
+                <spawn npc_id="883088" handler="BOSS">
+                    <spot x="2170.4768" y="1174.1045" z="3017.9902" h="41"/>
+                </spawn>
+                <spawn npc_id="805386" respawn_time="295">
+                    <spot x="2176.41" y="1170.1956" z="3017.0122" h="116"/>
+                </spawn>
+                <spawn npc_id="805498" respawn_time="295">
+                    <spot x="2175.1292" y="1168.0546" z="3017.0122" h="106"/>
+                </spawn>
+                <spawn npc_id="805499" respawn_time="295">
+                    <spot x="2172.8416" y="1166.8036" z="3017.0125" h="96"/>
+                </spawn>
+                <spawn npc_id="805500" respawn_time="295">
+                    <spot x="2170.4395" y="1166.9314" z="3017.0122" h="83"/>
+                </spawn>
+                <spawn npc_id="883089" respawn_time="295">
+                    <spot x="2197.595" y="1160.7673" z="3012.1785" h="3"/>
+                    <spot x="2177.6802" y="1199.1237" z="3012.1057" h="33"/>
+                    <spot x="2147.4878" y="1155.4523" z="3011.0518" h="73"/>
+                </spawn>
+                <spawn npc_id="883090" respawn_time="295">
+                    <spot x="2174.5435" y="1174.2087" z="3017.312" h="13"/>
+                    <spot x="2159.7727" y="1181.7008" z="3016.5745" h="46"/>
+                </spawn>
+                <spawn npc_id="883091" respawn_time="295">
+                    <spot x="2168.2795" y="1170.5104" z="3017.315" h="66"/>
+                </spawn>
+                <spawn npc_id="883092" respawn_time="295">
+                    <spot x="2187.1565" y="1162.4038" z="3016.0793" h="113"/>
+                    <spot x="2177.2693" y="1188.2" z="3016.4092" h="20"/>
+                    <spot x="2150.3257" y="1161.0447" z="3013.0867" h="73"/>
+                </spawn>
+                <spawn npc_id="883093" respawn_time="295">
+                    <spot x="2186.4548" y="1178.6171" z="3016.289" h="10"/>
+                    <spot x="2176.3958" y="1154.3201" z="3016.3005" h="96"/>
+                </spawn>
+
+                <spawn npc_id="883346" respawn_time="295">
+                    <spot x="2012.1364" y="1169.2408" z="2963.8923" h="98"/>
+                    <spot x="1999.9113" y="1210.063" z="2953.1414" h="56"/>
+                    <spot x="1981.1682" y="1204.1156" z="2952.3865" h="119"/>
+                    <spot x="1953.9375" y="1230.7297" z="2957.3152" h="33"/>
+                </spawn>
+                <spawn npc_id="883347" respawn_time="295">
+                    <spot x="1958.8867" y="1221.2788" z="2955.9197" h="64"/>
+                </spawn>
+                <spawn npc_id="883348" respawn_time="295">
+                    <spot x="1971.1675" y="1239.6367" z="2960.944" h="6"/>
+                </spawn>
+                <spawn npc_id="883349" respawn_time="295">
+                    <spot x="2032.4722" y="1163.7166" z="2962.581" h="16"/>
+                </spawn>
+                <spawn npc_id="883350" respawn_time="295">
+                    <spot x="2046.6295" y="1162.0087" z="2965.248" h="50"/>
+                </spawn>
+                <spawn npc_id="883358" respawn_time="295">
+                    <spot x="2233.69" y="1348.5195" z="2965.9863" h="3"/>
+                    <spot x="2266.1536" y="1356.625" z="2980.0603" h="1"/>
+                    <spot x="2274.4343" y="1347.4312" z="2984.0366" h="117"/>
+                    <spot x="2226.3577" y="1394.7926" z="2962.8777" h="1"/>
+                </spawn>
+                <spawn npc_id="883359" respawn_time="295">
+                    <spot x="2251.3386" y="1353.317" z="2973.695" h="6"/>
+                </spawn>
+                <spawn npc_id="883360" respawn_time="295">
+                    <spot x="2239.9487" y="1382.9492" z="2967.012" h="0"/>
+                </spawn>
+                <spawn npc_id="883361" respawn_time="295">
+                    <spot x="2212.803" y="1412.1484" z="2960.27" h="0"/>
+                </spawn>
+                <spawn npc_id="883362" respawn_time="295">
+                    <spot x="2232.6008" y="1366.1952" z="2965.1223" h="7"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Sliversleet Outpost Flag -->
+                <spawn npc_id="805443">
+                    <spot x="2171.8245" y="1171.5811" z="3046.8975" h="119"/>
+                </spawn>            
+                <spawn npc_id="882986" handler="BOSS">
+                    <spot x="2170.4768" y="1174.1045" z="3017.5266" h="40"/>
+                </spawn>
+                <spawn npc_id="883345" handler="ATTACKER">
+                    <spot x="2167.282" y="1179.5635" z="3017.1018" h="119"/>
+                </spawn>
+                <spawn npc_id="882987" respawn_time="295">
+                    <spot x="2177.6802" y="1199.1237" z="3012.1057" h="33"/>
+                    <spot x="2147.4878" y="1155.4523" z="3011.0518" h="73"/>
+                    <spot x="2197.595" y="1160.7673" z="3012.1785" h="3"/>
+                </spawn>
+                <spawn npc_id="882988" respawn_time="295">
+                    <spot x="2159.7727" y="1181.7008" z="3016.5745" h="46"/>
+                    <spot x="2174.5435" y="1174.2087" z="3017.312" h="13"/>
+                </spawn>
+                <spawn npc_id="882989" respawn_time="295">
+                    <spot x="2168.2795" y="1170.5104" z="3017.315" h="66"/>
+                </spawn>
+                <spawn npc_id="882990" respawn_time="295">
+                    <spot x="2177.2693" y="1188.2" z="3016.4092" h="20"/>
+                    <spot x="2150.3257" y="1161.0447" z="3013.0867" h="73"/>
+                    <spot x="2187.1565" y="1162.4038" z="3016.0793" h="113"/>
+                </spawn>
+                <spawn npc_id="882991" respawn_time="295">
+                    <spot x="2186.4548" y="1178.6171" z="3016.289" h="10"/>
+                    <spot x="2176.3958" y="1154.3201" z="3016.3005" h="96"/>
+                </spawn>
+
+                <spawn npc_id="883684" respawn_time="295">
+                    <spot x="2005.517" y="1169.7749" z="2963.2886" h="109"/>
+                    <spot x="1995.9136" y="1207.6492" z="2952.7852" h="51"/>
+                    <spot x="1977.2843" y="1212.2109" z="2954.871" h="73"/>
+                    <spot x="1950.6888" y="1229.6573" z="2956.5164" h="36"/>
+                    <spot x="2238.397" y="1348.9302" z="2968.1316" h="101"/>
+                    <spot x="2268.8843" y="1359.7908" z="2981.0369" h="21"/>
+                    <spot x="2278.5283" y="1348.7917" z="2985.8877" h="1"/>
+                    <spot x="2231.4849" y="1394.3275" z="2963.8594" h="103"/>
+                </spawn>
+                <spawn npc_id="883685" respawn_time="295">
+                    <spot x="1963.4567" y="1213.7772" z="2954.9136" h="52"/>
+                    <spot x="2255.1028" y="1354.1277" z="2975.296" h="115"/>
+                </spawn>
+                <spawn npc_id="883686" respawn_time="295">
+                    <spot x="1965.815" y="1243.858" z="2961.0994" h="24"/>
+                    <spot x="2241.1313" y="1386.4398" z="2967.3367" h="27"/>
+                </spawn>
+                <spawn npc_id="883687" respawn_time="295">
+                    <spot x="2028.2728" y="1157.663" z="2962.872" h="73"/>
+                    <spot x="2212.9084" y="1419.4556" z="2959.0798" h="17"/>
+                </spawn>
+                <spawn npc_id="883688" respawn_time="295">
+                    <spot x="2045.3733" y="1164.3007" z="2964.6135" h="102"/>
+                    <spot x="2236.4424" y="1367.4329" z="2966.5286" h="49"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Balaur, Elyos and Asmos Spawns - 02.10.16 -->
+        <base_spawn id="136"> <!-- Coldforge Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Coldforge Outpost Flag -->
+                <spawn npc_id="805445">
+                    <spot x="1707.6333" y="2143.3713" z="2978.9714" h="119"/>
+                </spawn>            
+                <spawn npc_id="883106" handler="BOSS">
+                    <spot x="1707.5516" y="2146.325" z="2949.5059" h="30"/>
+                </spawn>
+                <spawn npc_id="805410" respawn_time="295">
+                    <spot x="1711.0435" y="2140.4106" z="2948.9905" h="106"/>
+                </spawn>                
+                <spawn npc_id="805507" respawn_time="295">
+                    <spot x="1709.1011" y="2139.0398" z="2948.9905" h="96"/>
+                </spawn>                
+                <spawn npc_id="805508" respawn_time="295">
+                    <spot x="1706.6006" y="2138.8345" z="2948.9905" h="83"/>
+                </spawn>                
+                <spawn npc_id="805509" respawn_time="295">
+                    <spot x="1704.4554" y="2139.9265" z="2948.9905" h="73"/>
+                </spawn>          
+                <spawn npc_id="883107" respawn_time="295">
+                    <spot x="1685.8142" y="2167.047" z="2942.4407" h="50"/>
+                    <spot x="1717.0775" y="2171.3323" z="2943.747" h="30"/>
+                    <spot x="1735.9624" y="2142.3962" z="2947.2761" h="116"/>
+                </spawn>
+                <spawn npc_id="883108" respawn_time="295">
+                    <spot x="1715.932" y="2158.2688" z="2948.3582" h="20"/>
+                    <spot x="1703.9006" y="2144.165" z="2949.2898" h="53"/>
+                </spawn>
+                <spawn npc_id="883109" respawn_time="295">
+                    <spot x="1711.1432" y="2144.5288" z="2949.2952" h="6"/>
+                </spawn>
+                <spawn npc_id="883110" respawn_time="295">
+                    <spot x="1694.1409" y="2162.062" z="2945.9697" h="43"/>
+                    <spot x="1723.3564" y="2166.4788" z="2944.8691" h="110"/>
+                    <spot x="1729.5393" y="2150.7217" z="2946.067" h="0"/>
+                </spawn>
+                <spawn npc_id="883111" respawn_time="295">
+                    <spot x="1691.2771" y="2143.6702" z="2948.2593" h="60"/>
+                    <spot x="1706.9065" y="2127.0042" z="2949.175" h="30"/>
+                </spawn>
+
+                <spawn npc_id="883365" respawn_time="295">
+                    <spot x="1559.7993" y="2199.291" z="2925.8215" h="29"/>
+                    <spot x="1528.623" y="2225.7964" z="2925.2712" h="76"/>
+                    <spot x="1522.6324" y="2264.0618" z="2919.975" h="6"/>
+                    <spot x="1599.1432" y="2190.6135" z="2921.2148" h="10"/>
+                </spawn>
+                <spawn npc_id="883366" respawn_time="295">
+                    <spot x="1575.014" y="2212.3982" z="2922.131" h="16"/>
+                </spawn>
+                <spawn npc_id="883367" respawn_time="295">
+                    <spot x="1543.9027" y="2217.8381" z="2924.8787" h="96"/>
+                </spawn>
+                <spawn npc_id="883368" respawn_time="295">
+                    <spot x="1529.1786" y="2248.5078" z="2921.2053" h="67"/>
+                </spawn>
+                <spawn npc_id="883369" respawn_time="295">
+                    <spot x="1573.0104" y="2196.7349" z="2924.4358" h="61"/>
+                </spawn>
+                <spawn npc_id="883371" respawn_time="295">
+                    <spot x="1832.7883" y="2091.97" z="2946.8433" h="4"/>
+                    <spot x="1870.2201" y="2122.2676" z="2948.3604" h="56"/>
+                    <spot x="1887.3671" y="2076.8218" z="2958.4907" h="39"/>
+                    <spot x="1849.5426" y="2066.6267" z="2951.177" h="0"/>
+                </spawn>
+                <spawn npc_id="883372" respawn_time="295">
+                    <spot x="1880.4781" y="2094.9563" z="2955.1243" h="45"/>
+                </spawn>
+                <spawn npc_id="883373" respawn_time="295">
+                    <spot x="1857.6351" y="2107.6497" z="2948.5505" h="0"/>
+                </spawn>
+                <spawn npc_id="883374" respawn_time="295">
+                    <spot x="1842.5823" y="2077.7903" z="2949.819" h="0"/>
+                </spawn>
+                <spawn npc_id="883375" respawn_time="295">
+                    <spot x="1846.1134" y="2088.8254" z="2949.3916" h="29"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Coldforge Outpost Flag -->
+                <spawn npc_id="805444">
+                    <spot x="1707.6333" y="2143.3713" z="2978.9714" h="119"/>
+                </spawn>            
+                <spawn npc_id="883100" handler="BOSS">
+                    <spot x="1707.5516" y="2146.325" z="2950.0293" h="31"/>
+                </spawn>
+                <spawn npc_id="805387" respawn_time="295">
+                    <spot x="1711.0435" y="2140.4106" z="2948.9905" h="106"/>
+                </spawn>
+                <spawn npc_id="805504" respawn_time="295">
+                    <spot x="1709.1011" y="2139.0398" z="2948.9905" h="96"/>
+                </spawn>
+                <spawn npc_id="805505" respawn_time="295">
+                    <spot x="1706.6006" y="2138.8345" z="2948.9905" h="83"/>
+                </spawn>
+                <spawn npc_id="805506" respawn_time="295">
+                    <spot x="1704.4554" y="2139.9265" z="2948.9905" h="73"/>
+                </spawn>
+                <spawn npc_id="883101" respawn_time="295">
+                    <spot x="1735.9624" y="2142.3962" z="2947.2761" h="116"/>
+                    <spot x="1685.8142" y="2167.047" z="2942.4407" h="50"/>
+                    <spot x="1717.0775" y="2171.3323" z="2943.747" h="30"/>
+                </spawn>
+                <spawn npc_id="883102" respawn_time="295">
+                    <spot x="1703.9006" y="2144.165" z="2949.2898" h="53"/>
+                    <spot x="1715.932" y="2158.2688" z="2948.3582" h="20"/>
+                </spawn>
+                <spawn npc_id="883103" respawn_time="295">
+                    <spot x="1711.1432" y="2144.5288" z="2949.2952" h="6"/>
+                </spawn>
+                <spawn npc_id="883104" respawn_time="295">
+                    <spot x="1729.5393" y="2150.7217" z="2946.067" h="0"/>
+                    <spot x="1694.1409" y="2162.062" z="2945.9697" h="43"/>
+                    <spot x="1723.3564" y="2166.4788" z="2944.8691" h="110"/>
+                </spawn>
+                <spawn npc_id="883105" respawn_time="295">
+                    <spot x="1706.9065" y="2127.0042" z="2949.175" h="30"/>
+                    <spot x="1691.2771" y="2143.6702" z="2948.2593" h="60"/>
+                </spawn>
+
+                <spawn npc_id="883365" respawn_time="295">
+                    <spot x="1599.4634" y="2191.3928" z="2921.2546" h="5"/>
+                    <spot x="1557.8566" y="2196.028" z="2926.8352" h="3"/>
+                    <spot x="1528.6561" y="2222.8418" z="2926.0933" h="116"/>
+                    <spot x="1517.1921" y="2264.9146" z="2920.2046" h="4"/>
+                </spawn>
+                <spawn npc_id="883366" respawn_time="295">
+                    <spot x="1568.8864" y="2211.109" z="2922.2903" h="3"/>
+                </spawn>
+                <spawn npc_id="883367" respawn_time="295">
+                    <spot x="1551.7869" y="2219.6284" z="2923.5828" h="2"/>
+                </spawn>
+                <spawn npc_id="883368" respawn_time="295">
+                    <spot x="1532.3861" y="2246.091" z="2921.0867" h="117"/>
+                </spawn>
+                <spawn npc_id="883369" respawn_time="295">
+                    <spot x="1581.6244" y="2195.607" z="2924.126" h="6"/>
+                </spawn>
+                <spawn npc_id="883377" respawn_time="295">
+                    <spot x="1830.9109" y="2091.0627" z="2946.7632" h="116"/>
+                    <spot x="1875.642" y="2120.8782" z="2950.0425" h="116"/>
+                    <spot x="1850.4668" y="2066.3264" z="2951.278" h="114"/>
+                    <spot x="1886.48" y="2080.7715" z="2957.7302" h="117"/>
+                </spawn>
+                <spawn npc_id="883378" respawn_time="295">
+                    <spot x="1881.8337" y="2100.6484" z="2954.7563" h="116"/>
+                </spawn>
+                <spawn npc_id="883379" respawn_time="295">
+                    <spot x="1857.6351" y="2107.6497" z="2948.5505" h="0"/>
+                </spawn>
+                <spawn npc_id="883380" respawn_time="295">
+                    <spot x="1843.1653" y="2077.7903" z="2949.8704" h="0"/>
+                </spawn>
+                <spawn npc_id="883381" respawn_time="295">
+                    <spot x="1847.3784" y="2094.7292" z="2948.926" h="4"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Coldforge Outpost Flag -->
+                <spawn npc_id="805446">
+                    <spot x="1707.6333" y="2143.3713" z="2978.9714" h="119"/>
+                </spawn>            
+                <spawn npc_id="882992" handler="BOSS">
+                    <spot x="1707.5516" y="2146.325" z="2949.5059" h="30"/>
+                </spawn>
+                <spawn npc_id="883364" handler="ATTACKER">
+                    <spot x="1707.1981" y="2152.8171" z="2949.1143" h="119"/>
+                </spawn>
+                <spawn npc_id="882993" respawn_time="295">
+                    <spot x="1717.0775" y="2171.3323" z="2943.747" h="30"/>
+                    <spot x="1685.8142" y="2167.047" z="2942.4407" h="50"/>
+                    <spot x="1735.9624" y="2142.3962" z="2947.2761" h="116"/>
+                </spawn>
+                <spawn npc_id="882994" respawn_time="295">
+                    <spot x="1703.9006" y="2144.165" z="2949.2898" h="53"/>
+                    <spot x="1715.932" y="2158.2688" z="2948.3582" h="20"/>
+                </spawn>
+                <spawn npc_id="882995" respawn_time="295">
+                    <spot x="1711.1432" y="2144.5288" z="2949.2952" h="6"/>
+                </spawn>
+                <spawn npc_id="882996" respawn_time="295">
+                    <spot x="1723.3564" y="2166.4788" z="2944.8691" h="110"/>
+                    <spot x="1729.5393" y="2150.7217" z="2946.067" h="0"/>
+                    <spot x="1694.1409" y="2162.062" z="2945.9697" h="43"/>
+                </spawn>
+                <spawn npc_id="882997" respawn_time="295">
+                    <spot x="1706.9065" y="2127.0042" z="2949.175" h="30"/>
+                    <spot x="1691.2771" y="2143.6702" z="2948.2593" h="60"/>
+                </spawn>
+
+                <spawn npc_id="883699" respawn_time="295">
+                    <spot x="1519.393" y="2259.2397" z="2920.6665" h="106"/>
+                    <spot x="1534.5049" y="2222.2075" z="2925.118" h="19"/>
+                    <spot x="1560.3578" y="2195.476" z="2926.4316" h="113"/>
+                    <spot x="1603.4199" y="2191.0417" z="2922.1897" h="6"/>
+                    <spot x="1829.9128" y="2092.989" z="2946.076" h="82"/>
+                    <spot x="1845.9028" y="2066.304" z="2950.8787" h="99"/>
+                    <spot x="1879.2838" y="2119.6384" z="2951.2712" h="114"/>
+                    <spot x="1887.5175" y="2080.9062" z="2957.9634" h="22"/>
+                </spawn>
+                <spawn npc_id="883700" respawn_time="295">
+                    <spot x="1574.5883" y="2210.7915" z="2922.3794" h="30"/>
+                    <spot x="1885.0596" y="2099.9368" z="2955.6326" h="115"/>
+                </spawn>
+                <spawn npc_id="883701" respawn_time="295">
+                    <spot x="1547.9364" y="2217.618" z="2924.4436" h="27"/>
+                    <spot x="1857.3486" y="2108.6812" z="2948.3586" h="31"/>
+                </spawn>
+                <spawn npc_id="883702" respawn_time="295">
+                    <spot x="1528.0348" y="2251.2825" z="2920.989" h="17"/>
+                    <spot x="1846.0394" y="2078.315" z="2950.0876" h="20"/>
+                </spawn>
+                <spawn npc_id="883703" respawn_time="295">
+                    <spot x="1587.485" y="2194.8076" z="2923.4824" h="117"/>
+                    <spot x="1845.3906" y="2091.9111" z="2949.0273" h="1"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Balaur, Asmos and Elyos Spawns - 02.10.16 -->
+        <base_spawn id="137"> <!-- Shimmerfrost Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Shimmerfrost Outpost Flag -->
+                <spawn npc_id="805448">
+                    <spot x="1732.8215" y="2440.3037" z="2972.105" h="119"/>
+                </spawn>            
+                <spawn npc_id="883118" handler="BOSS">
+                    <spot x="1732.8992" y="2437.5139" z="2942.6438" h="93"/>
+                </spawn>
+                <spawn npc_id="805411" respawn_time="295">
+                    <spot x="1735.4962" y="2444.1755" z="2941.7454" h="16"/>
+                </spawn>
+                <spawn npc_id="805513" respawn_time="295">
+                    <spot x="1733.3239" y="2445.125" z="2941.7454" h="26"/>
+                </spawn>
+                <spawn npc_id="805514" respawn_time="295">
+                    <spot x="1730.8815" y="2444.8213" z="2941.7456" h="40"/>
+                </spawn>
+                <spawn npc_id="805515" respawn_time="295">
+                    <spot x="1728.9343" y="2443.396" z="2941.7456" h="43"/>
+                </spawn>
+                <spawn npc_id="883119" respawn_time="295">
+                    <spot x="1750.3002" y="2416.7056" z="2940.528" h="103"/>
+                    <spot x="1706.259" y="2436.1848" z="2936.8438" h="66"/>
+                    <spot x="1751.4329" y="2460.6838" z="2940.9102" h="16"/>
+                </spawn>
+                <spawn npc_id="883120" respawn_time="295">
+                    <spot x="1729.1022" y="2439.0803" z="2942.0498" h="70"/>
+                    <spot x="1730.5685" y="2454.792" z="2941.5806" h="90"/>
+                </spawn>
+                <spawn npc_id="883121" respawn_time="295">
+                    <spot x="1736.2173" y="2439.8418" z="2942.0505" h="116"/>
+                </spawn>
+                <spawn npc_id="883122" respawn_time="295">
+                    <spot x="1743.3536" y="2421.9956" z="2939.8503" h="103"/>
+                    <spot x="1716.2509" y="2438.0034" z="2941.0608" h="63"/>
+                    <spot x="1744.483" y="2457.1497" z="2940.1614" h="10"/>
+                </spawn>
+                <spawn npc_id="883123" respawn_time="295">
+                    <spot x="1729.8712" y="2422.6655" z="2941.042" h="90"/>
+                    <spot x="1748.711" y="2440.4795" z="2941.0125" h="0"/>
+                </spawn>
+
+                <spawn npc_id="883384" respawn_time="295">
+                    <spot x="1641.9742" y="2404.9558" z="2927.7026" h="2"/>
+                    <spot x="1618.0199" y="2369.6235" z="2920.1748" h="110"/>
+                    <spot x="1570.1184" y="2356.096" z="2912.8152" h="6"/>
+                    <spot x="1548.4778" y="2369.3271" z="2915.1633" h="4"/>
+                </spawn>
+                <spawn npc_id="883385" respawn_time="295">
+                    <spot x="1593.5005" y="2357.6477" z="2914.847" h="115"/>
+                </spawn>
+                <spawn npc_id="883386" respawn_time="295">
+                    <spot x="1623.8202" y="2382.7046" z="2925.1318" h="12"/>
+                </spawn>
+                <spawn npc_id="883387" respawn_time="295">
+                    <spot x="1614.5316" y="2343.4685" z="2917.3232" h="100"/>
+                </spawn>
+                <spawn npc_id="883388" respawn_time="295">
+                    <spot x="1535.4025" y="2353.5562" z="2916.38" h="119"/>
+                </spawn>
+                <spawn npc_id="883390" respawn_time="295">
+                    <spot x="1823.0822" y="2481.3608" z="2952.817" h="10"/>
+                    <spot x="1857.2178" y="2491.694" z="2958.291" h="21"/>
+                    <spot x="1889.5574" y="2479.9937" z="2955.737" h="41"/>
+                    <spot x="1870.991" y="2537.2783" z="2956.3818" h="53"/>
+                </spawn>
+                <spawn npc_id="883391" respawn_time="295">
+                    <spot x="1830.3086" y="2499.4954" z="2955.8196" h="7"/>
+                </spawn>
+                <spawn npc_id="883392" respawn_time="295">
+                    <spot x="1844.1643" y="2503.2832" z="2957.988" h="0"/>
+                </spawn>
+                <spawn npc_id="883393" respawn_time="295">
+                    <spot x="1882.6969" y="2512.2988" z="2956.2544" h="70"/>
+                </spawn>
+                <spawn npc_id="883394" respawn_time="295">
+                    <spot x="1886.459" y="2490.1719" z="2955.785" h="96"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Shimmerfrost Outpost Flag -->
+                <spawn npc_id="805447">
+                    <spot x="1732.8215" y="2440.3037" z="2972.105" h="119"/>
+                </spawn>            
+                <spawn npc_id="883112" handler="BOSS">
+                    <spot x="1732.8992" y="2437.5139" z="2942.6438" h="93"/>
+                </spawn>
+                <spawn npc_id="805388" respawn_time="295">
+                    <spot x="1735.4962" y="2444.1755" z="2941.7454" h="16"/>
+                </spawn>
+                <spawn npc_id="805510" respawn_time="295">
+                    <spot x="1733.3239" y="2445.125" z="2941.7454" h="26"/>
+                </spawn>
+                <spawn npc_id="805511" respawn_time="295">
+                    <spot x="1730.8815" y="2444.8213" z="2941.7456" h="40"/>
+                </spawn>
+                <spawn npc_id="805512" respawn_time="295">
+                    <spot x="1728.9343" y="2443.396" z="2941.7456" h="43"/>
+                </spawn>
+                <spawn npc_id="883113" respawn_time="295">
+                    <spot x="1750.3002" y="2416.7056" z="2940.528" h="103"/>
+                    <spot x="1706.259" y="2436.1848" z="2936.8438" h="66"/>
+                    <spot x="1751.4329" y="2460.6838" z="2940.9102" h="16"/>
+                </spawn>
+                <spawn npc_id="883114" respawn_time="295">
+                    <spot x="1729.1022" y="2439.0803" z="2942.0498" h="70"/>
+                    <spot x="1730.5685" y="2454.792" z="2941.5806" h="90"/>
+                </spawn>
+                <spawn npc_id="883115" respawn_time="295">
+                    <spot x="1736.2173" y="2439.8418" z="2942.0505" h="116"/>
+                </spawn>
+                <spawn npc_id="883116" respawn_time="295">
+                    <spot x="1743.3536" y="2421.9956" z="2939.8503" h="103"/>
+                    <spot x="1716.2509" y="2438.0034" z="2941.0608" h="63"/>
+                    <spot x="1744.483" y="2457.1497" z="2940.1614" h="10"/>
+                </spawn>
+                <spawn npc_id="883117" respawn_time="295">
+                    <spot x="1729.8712" y="2422.6655" z="2941.042" h="90"/>
+                    <spot x="1748.711" y="2440.4795" z="2941.0125" h="0"/>
+                </spawn>
+
+                <spawn npc_id="883384" respawn_time="295">
+                    <spot x="1639.9305" y="2400.5835" z="2928.905" h="87"/>
+                    <spot x="1608.317" y="2367.3088" z="2917.6858" h="64"/>
+                    <spot x="1563.1692" y="2354.987" z="2912.5022" h="22"/>
+                    <spot x="1553.9708" y="2367.1804" z="2912.7312" h="17"/>
+                </spawn>
+                <spawn npc_id="883385" respawn_time="295">
+                    <spot x="1586.9456" y="2356.3015" z="2914.175" h="108"/>
+                </spawn>
+                <spawn npc_id="883386" respawn_time="295">
+                    <spot x="1625.615" y="2381.074" z="2924.0256" h="17"/>
+                </spawn>
+                <spawn npc_id="883387" respawn_time="295">
+                    <spot x="1615.2177" y="2346.2595" z="2917.4316" h="18"/>
+                </spawn>
+                <spawn npc_id="883388" respawn_time="295">
+                    <spot x="1534.2653" y="2349.5852" z="2915.5918" h="109"/>
+                </spawn>
+                <spawn npc_id="883396" respawn_time="295">
+                    <spot x="1823.9163" y="2479.4675" z="2952.775" h="108"/>
+                    <spot x="1849.1316" y="2490.3857" z="2957.237" h="20"/>
+                    <spot x="1895.1803" y="2478.3442" z="2956.067" h="15"/>
+                    <spot x="1871.1539" y="2536.7605" z="2956.3718" h="30"/>
+                </spawn>
+                <spawn npc_id="883397" respawn_time="295">
+                    <spot x="1821.0109" y="2498.4185" z="2953.8784" h="57"/>
+                </spawn>
+                <spawn npc_id="883398" respawn_time="295">
+                    <spot x="1844.1643" y="2503.2832" z="2957.988" h="0"/>
+                </spawn>
+                <spawn npc_id="883399" respawn_time="295">
+                    <spot x="1882.9418" y="2513.4297" z="2956.2085" h="30"/>
+                </spawn>
+                <spawn npc_id="883400" respawn_time="295">
+                    <spot x="1885.0718" y="2496.163" z="2955.971" h="35"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Shimmerfrost Outpost Flag -->
+                <spawn npc_id="805449">
+                    <spot x="1732.8215" y="2440.3037" z="2972.105" h="119"/>
+                </spawn>            
+                <spawn npc_id="882998" handler="BOSS">
+                    <spot x="1732.8992" y="2437.514" z="2942.2627" h="93"/>
+                </spawn>
+                <spawn npc_id="883383" handler="ATTACKER">
+                    <spot x="1733.5603" y="2431.168" z="2941.8691" h="119"/>
+                </spawn>
+                <spawn npc_id="882999" respawn_time="295">
+                    <spot x="1706.259" y="2436.1848" z="2936.8438" h="66"/>
+                    <spot x="1751.4329" y="2460.6838" z="2940.9102" h="16"/>
+                    <spot x="1750.3002" y="2416.7056" z="2940.528" h="103"/>
+                </spawn>
+                <spawn npc_id="883000" respawn_time="295">
+                    <spot x="1729.1022" y="2439.0803" z="2942.0498" h="70"/>
+                    <spot x="1730.5685" y="2454.792" z="2941.5806" h="21"/>
+                </spawn>
+                <spawn npc_id="883001" respawn_time="295">
+                    <spot x="1736.2173" y="2439.8418" z="2942.0505" h="116"/>
+                </spawn>
+                <spawn npc_id="883002" respawn_time="295">
+                    <spot x="1716.2509" y="2438.0034" z="2941.0608" h="63"/>
+                    <spot x="1744.483" y="2457.1497" z="2940.1614" h="10"/>
+                    <spot x="1743.3536" y="2421.9956" z="2939.8503" h="103"/>
+                </spawn>
+                <spawn npc_id="883003" respawn_time="295">
+                    <spot x="1729.8712" y="2422.6655" z="2941.042" h="90"/>
+                    <spot x="1748.711" y="2440.4795" z="2941.0125" h="0"/>
+                </spawn>
+
+                <spawn npc_id="883714" respawn_time="295">
+                    <spot x="1818.6282" y="2485.024" z="2952.2478" h="82"/>
+                    <spot x="1850.1996" y="2487.1533" z="2957.0146" h="108"/>
+                    <spot x="1896.1687" y="2474.4329" z="2956.132" h="16"/>
+                    <spot x="1873.1597" y="2533.4216" z="2956.2566" h="114"/>
+                    <spot x="1640.4825" y="2406.4094" z="2928.8872" h="13"/>
+                    <spot x="1616.6135" y="2371.429" z="2921.2922" h="11"/>
+                    <spot x="1572.4854" y="2356.9246" z="2912.8672" h="14"/>
+                    <spot x="1550.5398" y="2367.1025" z="2914.5024" h="109"/>
+                </spawn>
+                <spawn npc_id="883715" respawn_time="295">
+                    <spot x="1825.7798" y="2503.0815" z="2955.2292" h="92"/>
+                    <spot x="1594.766" y="2359.599" z="2915.2668" h="20"/>
+                </spawn>
+                <spawn npc_id="883716" respawn_time="295">
+                    <spot x="1839.3424" y="2504.8516" z="2957.5918" h="12"/>
+                    <spot x="1624.5668" y="2379.8572" z="2923.6274" h="30"/>
+                </spawn>
+                <spawn npc_id="883717" respawn_time="295">
+                    <spot x="1871.7262" y="2511.4556" z="2957.39" h="47"/>
+                    <spot x="1611.9358" y="2351.8687" z="2916.9375" h="108"/>
+                </spawn>
+                <spawn npc_id="883718" respawn_time="295">
+                    <spot x="1883.2848" y="2498.1394" z="2956.246" h="52"/>
+                    <spot x="1537.3262" y="2353.354" z="2915.9731" h="119"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Balaur, Elyos and Asmo Spawns - 02.10.16 -->
+        <base_spawn id="138"> <!-- Icehowl Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Icehowl Outpost Flag -->
+                <spawn npc_id="805451">
+                    <spot x="2411.3721" y="2220.3638" z="3118.8738" h="119"/>
+                </spawn>            
+                <spawn npc_id="883130" handler="BOSS">
+                    <spot x="2409.8972" y="2217.7915" z="3086.6746" h="80"/>
+                </spawn>
+                <spawn npc_id="805412" respawn_time="295">
+                    <spot x="2409.7063" y="2224.8054" z="3086.1558" h="36"/>
+                </spawn>
+                <spawn npc_id="805519" respawn_time="295">
+                    <spot x="2412.0793" y="2224.9338" z="3086.156" h="26"/>
+                </spawn>
+                <spawn npc_id="805520" respawn_time="295">
+                    <spot x="2414.291" y="2223.8162" z="3086.156" h="13"/>
+                </spawn>
+                <spawn npc_id="805521" respawn_time="295">
+                    <spot x="2415.7183" y="2221.846" z="3086.1555" h="3"/>
+                </spawn>
+                <spawn npc_id="883131" respawn_time="295">
+                    <spot x="2417.922" y="2190.517" z="3080.2922" h="103"/>
+                    <spot x="2384.0923" y="2231.3142" z="3080.1157" h="60"/>
+                    <spot x="2437.9407" y="2231.3494" z="3080.9905" h="10"/>
+                </spawn>
+                <spawn npc_id="883132" respawn_time="295">
+                    <spot x="2414.0327" y="2217.8562" z="3086.4568" h="103"/>
+                    <spot x="2414.1587" y="2235.9307" z="3085.721" h="26"/>
+                </spawn>
+                <spawn npc_id="883133" respawn_time="295">
+                    <spot x="2407.6838" y="2221.1782" z="3086.4653" h="53"/>
+                </spawn>
+                <spawn npc_id="883134" respawn_time="295">
+                    <spot x="2412.4739" y="2202.3706" z="3085.1436" h="93"/>
+                    <spot x="2390.6094" y="2230.2295" z="3082.427" h="53"/>
+                    <spot x="2427.2632" y="2224.3137" z="3085.8035" h="3"/>
+                </spawn>
+                <spawn npc_id="883135" respawn_time="295">
+                    <spot x="2396.7632" y="2211.4802" z="3085.523" h="66"/>
+                    <spot x="2425.1868" y="2212.16" z="3085.432" h="110"/>
+                </spawn>
+
+                <spawn npc_id="883403" respawn_time="295">
+                    <spot x="2350.2646" y="2168.4841" z="3015.7795" h="12"/>
+                    <spot x="2365.5403" y="2148.1118" z="3014.9172" h="14"/>
+                    <spot x="2352.856" y="2131.5386" z="3018.096" h="91"/>
+                    <spot x="2286.4348" y="2135.123" z="3022.384" h="27"/>
+                </spawn>
+                <spawn npc_id="883404" respawn_time="295">
+                    <spot x="2308.4983" y="2126.4753" z="3023.2463" h="75"/>
+                </spawn>
+                <spawn npc_id="883405" respawn_time="295">
+                    <spot x="2325.1277" y="2147.7095" z="3019.3945" h="66"/>
+                </spawn>
+                <spawn npc_id="883406" respawn_time="295">
+                    <spot x="2316.688" y="2097.3123" z="3028.02" h="114"/>
+                </spawn>
+                <spawn npc_id="883407" respawn_time="295">
+                    <spot x="2387.0684" y="2163.2668" z="3009.9705" h="35"/>
+                </spawn>
+                <spawn npc_id="883409" respawn_time="295">
+                    <spot x="2500.7913" y="2276.1355" z="3000.1301" h="111"/>
+                    <spot x="2567.365" y="2258.8267" z="2993.0725" h="69"/>
+                    <spot x="2573.8716" y="2308.9136" z="2983.9756" h="0"/>
+                </spawn>
+                <spawn npc_id="883410" respawn_time="295">
+                    <spot x="2529.362" y="2253.9905" z="2998.326" h="116"/>
+                </spawn>
+                <spawn npc_id="883411" respawn_time="295">
+                    <spot x="2558.7527" y="2288.5757" z="2988.3704" h="0"/>
+                </spawn>
+                <spawn npc_id="883412" respawn_time="295">
+                    <spot x="2516.2998" y="2275.1516" z="2997.621" h="0"/>
+                </spawn>
+                <spawn npc_id="883413" respawn_time="295">
+                    <spot x="2548.8235" y="2265.8623" z="2993.654" h="29"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Icehowl Outpost Flag -->
+                <spawn npc_id="805450">
+                    <spot x="2411.3721" y="2220.3638" z="3118.8738" h="119"/>
+                </spawn>            
+                <spawn npc_id="883124" handler="BOSS">
+                    <spot x="2409.8972" y="2217.7915" z="3087.2114" h="80"/>
+                </spawn>
+                <spawn npc_id="805389" respawn_time="295">
+                    <spot x="2409.7063" y="2224.8054" z="3086.1558" h="36"/>
+                </spawn>
+                <spawn npc_id="805516" respawn_time="295">
+                    <spot x="2412.0793" y="2224.9338" z="3086.156" h="26"/>
+                </spawn>
+                <spawn npc_id="805517" respawn_time="295">
+                    <spot x="2414.291" y="2223.8162" z="3086.156" h="13"/>
+                </spawn>
+                <spawn npc_id="805518" respawn_time="295">
+                    <spot x="2415.7183" y="2221.846" z="3086.1555" h="3"/>
+                </spawn>
+                <spawn npc_id="883125" respawn_time="295">
+                    <spot x="2384.0923" y="2231.3142" z="3080.1157" h="60"/>
+                    <spot x="2417.922" y="2190.517" z="3080.2922" h="103"/>
+                    <spot x="2437.9407" y="2231.3494" z="3080.9905" h="10"/>
+                </spawn>
+                <spawn npc_id="883126" respawn_time="295">
+                    <spot x="2414.1587" y="2235.9307" z="3085.721" h="26"/>
+                    <spot x="2414.0327" y="2217.8562" z="3086.4568" h="103"/>
+                </spawn>
+                <spawn npc_id="883127" respawn_time="295">
+                    <spot x="2407.6838" y="2221.1782" z="3086.4653" h="53"/>
+                </spawn>
+                <spawn npc_id="883128" respawn_time="295">
+                    <spot x="2390.6094" y="2230.2295" z="3082.427" h="53"/>
+                    <spot x="2412.4739" y="2202.3706" z="3085.1436" h="93"/>
+                    <spot x="2427.2632" y="2224.3137" z="3085.8035" h="3"/>
+                </spawn>
+                <spawn npc_id="883129" respawn_time="295">
+                    <spot x="2396.7632" y="2211.4802" z="3085.523" h="66"/>
+                    <spot x="2425.1868" y="2212.16" z="3085.432" h="110"/>
+                </spawn>
+
+                <spawn npc_id="883403" respawn_time="295">
+                    <spot x="2296.5935" y="2134.135" z="3022.7039" h="117"/>
+                    <spot x="2349.5652" y="2169.3474" z="3015.8599" h="21"/>
+                    <spot x="2346.6182" y="2131.4333" z="3019.1501" h="0"/>
+                    <spot x="2364.3142" y="2150.0774" z="3014.9285" h="116"/>
+                </spawn>
+                <spawn npc_id="883404" respawn_time="295">
+                    <spot x="2318.7297" y="2128.8838" z="3022.4143" h="22"/>
+                </spawn>
+                <spawn npc_id="883405" respawn_time="295">
+                    <spot x="2330.4023" y="2148.291" z="3019.0605" h="99"/>
+                </spawn>
+                <spawn npc_id="883406" respawn_time="295">
+                    <spot x="2315.1316" y="2103.004" z="3027.222" h="2"/>
+                </spawn>
+                <spawn npc_id="883407" respawn_time="295">
+                    <spot x="2384.7676" y="2163.4255" z="3010.3557" h="29"/>
+                </spawn>
+                <spawn npc_id="883415" respawn_time="295">
+                    <spot x="2493.668" y="2278.2075" z="3001.1448" h="70"/>
+                    <spot x="2566.387" y="2260.4111" z="2993.0078" h="117"/>
+                    <spot x="2573.7944" y="2303.0513" z="2984.9177" h="90"/>
+                </spawn>
+                <spawn npc_id="883416" respawn_time="295">
+                    <spot x="2529.3828" y="2254.1873" z="2998.268" h="0"/>
+                </spawn>
+                <spawn npc_id="883417" respawn_time="295">
+                    <spot x="2558.7527" y="2288.5757" z="2988.3704" h="0"/>
+                </spawn>
+                <spawn npc_id="883418" respawn_time="295">
+                    <spot x="2516.4941" y="2275.1516" z="2997.5835" h="0"/>
+                </spawn>
+                <spawn npc_id="883419" respawn_time="295">
+                    <spot x="2545.94" y="2263.5542" z="2994.013" h="118"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Icehowl Outpost Flag -->
+                <spawn npc_id="805452">
+                    <spot x="2411.3721" y="2220.3638" z="3118.8738" h="119"/>
+                </spawn>            
+                <spawn npc_id="883004" handler="BOSS">
+                    <spot x="2409.8972" y="2217.7915" z="3086.6746" h="80"/>
+                </spawn>
+                <spawn npc_id="883402" handler="ATTACKER">
+                    <spot x="2407.1506" y="2212.11" z="3086.2566" h="119"/>
+                </spawn>
+                <spawn npc_id="883005" respawn_time="295">
+                    <spot x="2384.0923" y="2231.3142" z="3080.1157" h="60"/>
+                    <spot x="2437.9407" y="2231.3494" z="3080.9905" h="10"/>
+                    <spot x="2417.922" y="2190.517" z="3080.2922" h="103"/>
+                </spawn>
+                <spawn npc_id="883006" respawn_time="295">
+                    <spot x="2414.1587" y="2235.9307" z="3085.721" h="26"/>
+                    <spot x="2414.0327" y="2217.8562" z="3086.4568" h="103"/>
+                </spawn>
+                <spawn npc_id="883007" respawn_time="295">
+                    <spot x="2407.6838" y="2221.1782" z="3086.4653" h="53"/>
+                </spawn>
+                <spawn npc_id="883008" respawn_time="295">
+                    <spot x="2390.6094" y="2230.2295" z="3082.427" h="53"/>
+                    <spot x="2427.2632" y="2224.3137" z="3085.8035" h="3"/>
+                    <spot x="2412.4739" y="2202.3706" z="3085.1436" h="93"/>
+                </spawn>
+                <spawn npc_id="883009" respawn_time="295">
+                    <spot x="2396.7632" y="2211.4802" z="3085.523" h="66"/>
+                    <spot x="2425.1868" y="2212.16" z="3085.432" h="110"/>
+                </spawn>
+
+                <spawn npc_id="883729" respawn_time="295">
+                    <spot x="2565.427" y="2260.5632" z="2993.0547" h="0"/>
+                    <spot x="2498.008" y="2276.8804" z="3000.5225" h="0"/>
+                    <spot x="2347.2537" y="2165.8105" z="3016.2705" h="116"/>
+                    <spot x="2359.6912" y="2149.8794" z="3015.5354" h="0"/>
+                    <spot x="2347.9214" y="2131.2258" z="3018.953" h="1"/>
+                    <spot x="2295.312" y="2135.0332" z="3022.634" h="4"/>
+                    <spot x="2575.4336" y="2308.0903" z="2983.998" h="115"/>
+                </spawn>
+                <spawn npc_id="883730" respawn_time="295">
+                    <spot x="2528.4363" y="2254.1873" z="2998.4053" h="0"/>
+                    <spot x="2318.3523" y="2127.4531" z="3022.639" h="116"/>
+                </spawn>
+                <spawn npc_id="883731" respawn_time="295">
+                    <spot x="2328.0762" y="2149.157" z="3019.0461" h="117"/>
+                    <spot x="2561.4578" y="2288.9092" z="2988.08" h="118"/>
+                </spawn>
+                <spawn npc_id="883732" respawn_time="295">
+                    <spot x="2515.1338" y="2275.1516" z="2997.8447" h="0"/>
+                    <spot x="2315.5847" y="2111.3125" z="3025.8162" h="31"/>
+                </spawn>
+                <spawn npc_id="883733" respawn_time="295">
+                    <spot x="2544.9985" y="2263.653" z="2994.063" h="0"/>
+                    <spot x="2382.1077" y="2162.0105" z="3010.6487" h="117"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Balaur, Elyos and Asmo Spawns - 02.10.16 -->
+        <base_spawn id="139"> <!-- Chillhaunt Outpost (Base 55) -->
+            <simple_race race="ASMODIANS">
+                <!-- Chillhaunt Outpost Flag -->
+                <spawn npc_id="805454">
+                    <spot x="2607.7007" y="2015.4702" z="3117.1941" h="119"/>
+                </spawn>            
+                <spawn npc_id="883142" handler="BOSS">
+                    <spot x="2606.1321" y="2017.9041" z="3087.1311" h="41"/>
+                </spawn>
+                <spawn npc_id="805413" respawn_time="295">
+                    <spot x="2611.8025" y="2013.5948" z="3086.3032" h="116"/>
+                </spawn>
+                <spawn npc_id="805525" respawn_time="295">
+                    <spot x="2610.4082" y="2011.5851" z="3086.3032" h="103"/>
+                </spawn>
+                <spawn npc_id="805526" respawn_time="295">
+                    <spot x="2608.0234" y="2010.5596" z="3086.3032" h="93"/>
+                </spawn>
+                <spawn npc_id="805527" respawn_time="295">
+                    <spot x="2605.553" y="2010.7625" z="3086.3035" h="80"/>
+                </spawn>
+                <spawn npc_id="883143" respawn_time="295">
+                    <spot x="2615.0945" y="2043.4373" z="3080.8672" h="30"/>
+                    <spot x="2581.9937" y="2001.7189" z="3080.5364" h="73"/>
+                    <spot x="2634.1094" y="2001.7433" z="3080.6963" h="0"/>
+                </spawn>
+                <spawn npc_id="883144" respawn_time="295">
+                    <spot x="2597.5547" y="2028.0922" z="3085.8723" h="46"/>
+                    <spot x="2603.7126" y="2014.6692" z="3086.61" h="63"/>
+                </spawn>
+                <spawn npc_id="883145" respawn_time="295">
+                    <spot x="2610.169" y="2017.584" z="3086.6106" h="13"/>
+                </spawn>
+                <spawn npc_id="883146" respawn_time="295">
+                    <spot x="2614.9675" y="2035.8402" z="3083.6401" h="23"/>
+                    <spot x="2591.5" y="2007.7899" z="3085.1787" h="70"/>
+                    <spot x="2627.8882" y="2002.1942" z="3082.703" h="106"/>
+                </spawn>
+                <spawn npc_id="883147" respawn_time="295">
+                    <spot x="2622.5696" y="2020.7412" z="3085.5762" h="10"/>
+                    <spot x="2604.637" y="1998.574" z="3085.685" h="83"/>
+                </spawn>
+
+                <spawn npc_id="883422" respawn_time="295">
+                    <spot x="2563.3433" y="1929.0443" z="3012.0896" h="9"/>
+                    <spot x="2535.6528" y="1906.2825" z="3014.938" h="32"/>
+                    <spot x="2499.8684" y="1946.9951" z="3011.6084" h="36"/>
+                    <spot x="2466.862" y="1971.3542" z="3010.3506" h="116"/>
+                </spawn>
+                <spawn npc_id="883423" respawn_time="295">
+                    <spot x="2528.3171" y="1957.6793" z="3012.7063" h="3"/>
+                </spawn>
+                <spawn npc_id="883424" respawn_time="295">
+                    <spot x="2532.755" y="1919.9396" z="3014.3516" h="1"/>
+                </spawn>
+                <spawn npc_id="883425" respawn_time="295">
+                    <spot x="2485.2756" y="1966.006" z="3010.7834" h="116"/>
+                </spawn>
+                <spawn npc_id="883426" respawn_time="295">
+                    <spot x="2523.4026" y="1924.4489" z="3014.6055" h="4"/>
+                </spawn>
+                <spawn npc_id="883428" respawn_time="295">
+                    <spot x="2729.6082" y="1967.4878" z="3028.9504" h="9"/>
+                    <spot x="2746.9214" y="1929.4863" z="3035.201" h="119"/>
+                </spawn>
+                <spawn npc_id="883429" respawn_time="295">
+                    <spot x="2739.231" y="1944.9161" z="3032.3457" h="119"/>
+                </spawn>
+                <spawn npc_id="883430" respawn_time="295">
+                    <spot x="2745.463" y="1968.7233" z="3027.8237" h="0"/>
+                </spawn>
+                <spawn npc_id="883431" respawn_time="295">
+                    <spot x="2729.8635" y="1987.8809" z="3024.733" h="109"/>
+                </spawn>
+                <spawn npc_id="883432" respawn_time="295">
+                    <spot x="2774.1265" y="1932.0889" z="3034.1265" h="15"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Chillhaunt Outpost Flag -->
+                <spawn npc_id="805453">
+                    <spot x="2607.7007" y="2015.4702" z="3117.1941" h="119"/>
+                </spawn>            
+                <spawn npc_id="883136" handler="BOSS">
+                    <spot x="2606.1321" y="2017.9041" z="3087.1311" h="41"/>
+                </spawn>
+                <spawn npc_id="805390" respawn_time="295">
+                    <spot x="2611.8025" y="2013.5948" z="3086.3032" h="116"/>
+                </spawn>
+                <spawn npc_id="805522" respawn_time="295">
+                    <spot x="2610.4082" y="2011.5851" z="3086.3032" h="103"/>
+                </spawn>
+                <spawn npc_id="805523" respawn_time="295">
+                    <spot x="2608.0234" y="2010.5596" z="3086.3032" h="93"/>
+                </spawn>
+                <spawn npc_id="805524" respawn_time="295">
+                    <spot x="2605.553" y="2010.7625" z="3086.3035" h="80"/>
+                </spawn>
+                <spawn npc_id="883137" respawn_time="295">
+                    <spot x="2615.0945" y="2043.4373" z="3080.8672" h="54"/>
+                    <spot x="2581.9937" y="2001.7189" z="3080.5364" h="73"/>
+                    <spot x="2634.1094" y="2001.7433" z="3080.6963" h="70"/>
+                </spawn>
+                <spawn npc_id="883138" respawn_time="295">
+                    <spot x="2597.5547" y="2028.0922" z="3085.8723" h="53"/>
+                    <spot x="2603.7126" y="2014.6692" z="3086.61" h="63"/>
+                </spawn>
+                <spawn npc_id="883139" respawn_time="295">
+                    <spot x="2610.169" y="2017.584" z="3086.6106" h="53"/>
+                </spawn>
+                <spawn npc_id="883140" respawn_time="295">
+                    <spot x="2614.9675" y="2035.8402" z="3083.6401" h="53"/>
+                    <spot x="2591.5" y="2007.7899" z="3085.1787" h="53"/>
+                    <spot x="2627.8882" y="2002.1942" z="3082.703" h="53"/>
+                </spawn>
+
+                <spawn npc_id="883422" respawn_time="295">
+                    <spot x="2559.145" y="1921.5214" z="3012.5925" h="11"/>
+                    <spot x="2506.1414" y="1949.4979" z="3011.848" h="7"/>
+                    <spot x="2534.6167" y="1902.8689" z="3015.0562" h="2"/>
+                    <spot x="2459.7622" y="1972.8267" z="3010.156" h="32"/>
+                </spawn>
+                <spawn npc_id="883423" respawn_time="295">
+                    <spot x="2526.2024" y="1955.4672" z="3012.6406" h="0"/>
+                </spawn>
+                <spawn npc_id="883424" respawn_time="295">
+                    <spot x="2539.422" y="1920.8369" z="3013.8728" h="0"/>
+                </spawn>
+                <spawn npc_id="883425" respawn_time="295">
+                    <spot x="2490.1729" y="1968.1377" z="3011.4294" h="109"/>
+                </spawn>
+                <spawn npc_id="883426" respawn_time="295">
+                    <spot x="2521.7007" y="1931.5294" z="3013.799" h="0"/>
+                </spawn>
+                <spawn npc_id="883434" respawn_time="295">
+                    <spot x="2712.5686" y="1979.96" z="3024.5354" h="73"/>
+                    <spot x="2726.7554" y="1965.477" z="3029.4087" h="53"/>
+                    <spot x="2746.8896" y="1929.9918" z="3035.0793" h="2"/>
+                </spawn>
+                <spawn npc_id="883435" respawn_time="295">
+                    <spot x="2739.2002" y="1945.2107" z="3032.2808" h="5"/>
+                </spawn>
+                <spawn npc_id="883436" respawn_time="295">
+                    <spot x="2745.463" y="1968.7233" z="3027.8237" h="0"/>
+                </spawn>
+                <spawn npc_id="883437" respawn_time="295">
+                    <spot x="2726.897" y="1992.6152" z="3023.3506" h="103"/>
+                </spawn>
+                <spawn npc_id="883438" respawn_time="295">
+                    <spot x="2774.3735" y="1930.8599" z="3034.4775" h="114"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Chillhaunt Outpost Flag -->
+                <spawn npc_id="805455">
+                    <spot x="2607.7007" y="2015.4702" z="3117.1941" h="119"/>
+                </spawn>            
+                <spawn npc_id="883010" handler="BOSS">
+                    <spot x="2606.132" y="2017.904" z="3086.82" h="40"/>
+                </spawn>
+                <spawn npc_id="883421" handler="ATTACKER">
+                    <spot x="2603.3901" y="2023.6655" z="3086.4275" h="119"/>
+                </spawn>
+                <spawn npc_id="883011" respawn_time="295">
+                    <spot x="2581.9937" y="2001.7189" z="3080.5364" h="73"/>
+                    <spot x="2634.1094" y="2001.7433" z="3080.6963" h="0"/>
+                    <spot x="2615.0945" y="2043.4373" z="3080.8672" h="30"/>
+                </spawn>
+                <spawn npc_id="883012" respawn_time="295">
+                    <spot x="2603.7126" y="2014.6692" z="3086.61" h="63"/>
+                    <spot x="2597.5547" y="2028.0922" z="3085.8723" h="46"/>
+                </spawn>
+                <spawn npc_id="883013" respawn_time="295">
+                    <spot x="2610.169" y="2017.584" z="3086.6106" h="13"/>
+                </spawn>
+                <spawn npc_id="883014" respawn_time="295">
+                    <spot x="2591.5" y="2007.7899" z="3085.1787" h="70"/>
+                    <spot x="2627.8882" y="2002.1942" z="3082.703" h="106"/>
+                    <spot x="2614.9675" y="2035.8402" z="3083.6401" h="23"/>
+                </spawn>
+                <spawn npc_id="883015" respawn_time="295">
+                    <spot x="2604.637" y="1998.574" z="3085.685" h="83"/>
+                    <spot x="2622.5696" y="2020.7412" z="3085.5762" h="10"/>
+                </spawn>
+
+                <spawn npc_id="883744" respawn_time="295">
+                    <spot x="2507.3733" y="1949.2803" z="3011.9033" h="9"/>
+                    <spot x="2560.193" y="1930.1685" z="3012.1897" h="21"/>
+                    <spot x="2468.1099" y="1972.1742" z="3010.5583" h="8"/>
+                    <spot x="2535.6743" y="1903.2362" z="3015.0095" h="12"/>
+                    <spot x="2709.501" y="1980.8745" z="3023.6467" h="114"/>
+                    <spot x="2729.1162" y="1966.8947" z="3029.0645" h="0"/>
+                    <spot x="2746.3167" y="1929.569" z="3035.2258" h="119"/>
+                </spawn>
+                <spawn npc_id="883745" respawn_time="295">
+                    <spot x="2522.6333" y="1954.0044" z="3012.504" h="56"/>
+                    <spot x="2738.296" y="1945.176" z="3032.368" h="6"/>
+                </spawn>
+                <spawn npc_id="883746" respawn_time="295">
+                    <spot x="2541.3252" y="1916.9263" z="3014.0222" h="67"/>
+                    <spot x="2746.3223" y="1968.3934" z="3027.8193" h="113"/>
+                </spawn>
+                <spawn npc_id="883747" respawn_time="295">
+                    <spot x="2477.1724" y="1967.743" z="3010.405" h="60"/>
+                    <spot x="2731.115" y="1994.4584" z="3023.4404" h="4"/>
+                </spawn>
+                <spawn npc_id="883748" respawn_time="295">
+                    <spot x="2524.8008" y="1929.3987" z="3013.8713" h="104"/>
+                    <spot x="2774.338" y="1930.3602" z="3034.622" h="113"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+         <!-- <base_spawn id="140"> Wildersage Artifact Outpost - Artifact 1224?
+        </base_spawn> -->
+
+        <!-- <base_spawn id="141"> Dauntless Artifact Outpost - Artifact 1401?
+        </base_spawn> -->
+
+        <!-- <base_spawn id="142"> Anchorbrak Artifact Outpost  - Artifact 1402?
+        </base_spawn> -->
+
+        <!-- <base_spawn id="143"> Brokenblade Artifact Outpost - Artifact 1403?
+        </base_spawn> -->
+
+        <!-- Update Balaur, Elyos and Asmos Quest Spawns - 02.10.16 -->
+        <base_spawn id="144"> <!-- Sootguzzle Outpost (Base 60) -->
+            <simple_race race="ASMODIANS">
+                <!-- Sootguzzle Outpost Flag -->
+                <spawn npc_id="805457">
+                    <spot x="2589.678" y="843.91931" z="2931.6094" h="119"/>
+                </spawn>            
+                <spawn npc_id="883154" handler="BOSS">
+                    <spot x="2591.6604" y="845.85406" z="2898.3892" h="16"/>
+                </spawn>
+                <spawn npc_id="805418" respawn_time="295">
+                    <spot x="2590.3647" y="838.8512" z="2897.468" h="93"/>
+                </spawn>
+                <spawn npc_id="805531" respawn_time="295">
+                    <spot x="2587.8608" y="839.2708" z="2897.4675" h="83"/>
+                </spawn>
+                <spawn npc_id="805532" respawn_time="295">
+                    <spot x="2585.961" y="840.96356" z="2897.4683" h="73"/>
+                </spawn>
+                <spawn npc_id="805533" respawn_time="295">
+                    <spot x="2585.2776" y="843.22626" z="2897.4678" h="60"/>
+                </spawn>
+                <spawn npc_id="805602" respawn_time="295">
+                    <spot x="2592.3298" y="839.6926" z="2897.468" h="103"/>
+                </spawn>
+                <spawn npc_id="883155" respawn_time="295">
+                    <spot x="2591.3403" y="812.7515" z="2896.8142" h="90"/>
+                    <spot x="2597.4995" y="867.16077" z="2893.7886" h="20"/>
+                    <spot x="2559.422" y="852.7527" z="2895.7288" h="56"/>
+                </spawn>
+                <spawn npc_id="883156" respawn_time="295">
+                    <spot x="2588.5771" y="847.29584" z="2897.771" h="36"/>
+                    <spot x="2600.6868" y="856.1506" z="2897.0461" h="15"/>
+                </spawn>
+                <spawn npc_id="883157" respawn_time="295">
+                    <spot x="2593.6587" y="842.99756" z="2897.7705" h="116"/>
+                </spawn>
+                <spawn npc_id="883158" respawn_time="295">
+                    <spot x="2611.5337" y="842.341" z="2895.1094" h="0"/>
+                    <spot x="2586.7422" y="824.9567" z="2896.2266" h="96"/>
+                    <spot x="2575.8757" y="854.1997" z="2896.4082" h="43"/>
+                </spawn>
+                <spawn npc_id="883159" respawn_time="295">
+                    <spot x="2601.2466" y="832.0494" z="2896.7322" h="106"/>
+                    <spot x="2573.4377" y="838.12085" z="2896.8047" h="63"/>
+                </spawn>
+
+                <spawn npc_id="883441" respawn_time="295">
+                    <spot x="2531.7026" y="829.36774" z="2869.5283" h="8"/>
+                    <spot x="2499.5823" y="795.5123" z="2869.527" h="114"/>
+                    <spot x="2515.7073" y="781.6617" z="2869.527" h="9"/>
+                    <spot x="2544.9062" y="777.0609" z="2869.5273" h="117"/>
+                </spawn>
+                <spawn npc_id="883442" respawn_time="295">
+                    <spot x="2504.6287" y="810.154" z="2869.527" h="68"/>
+                </spawn>
+                <spawn npc_id="883443" respawn_time="295">
+                    <spot x="2538.054" y="746.7301" z="2869.5269" h="105"/>
+                </spawn>
+                <spawn npc_id="883444" respawn_time="295">
+                    <spot x="2539.3267" y="813.90015" z="2869.5283" h="14"/>
+                </spawn>
+                <spawn npc_id="883445" respawn_time="295">
+                    <spot x="2529.1199" y="793.8452" z="2869.5273" h="12"/>
+                </spawn>
+                <spawn npc_id="883447" respawn_time="295">
+                    <spot x="2485.8645" y="681.0671" z="2869.5273" h="3"/>
+                    <spot x="2473.1711" y="666.5124" z="2869.5266" h="114"/>
+                    <spot x="2505.4475" y="652.47" z="2869.5266" h="6"/>
+                    <spot x="2498.2522" y="624.3797" z="2869.527" h="116"/>
+                </spawn>
+                <spawn npc_id="883448" respawn_time="295">
+                    <spot x="2493.0916" y="661.74384" z="2869.5266" h="1"/>
+                </spawn>
+                <spawn npc_id="883449" respawn_time="295">
+                    <spot x="2478.167" y="654.46625" z="2869.5266" h="0"/>
+                </spawn>
+                <spawn npc_id="883450" respawn_time="295">
+                    <spot x="2507.064" y="673.8217" z="2869.5266" h="0"/>
+                </spawn>
+                <spawn npc_id="883451" respawn_time="295">
+                    <spot x="2491.1206" y="641.2707" z="2869.5266" h="3"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Sootguzzle Outpost Flag -->
+                <spawn npc_id="805456">
+                    <spot x="2589.678" y="843.91931" z="2931.6094" h="119"/>
+                </spawn>
+                <spawn npc_id="883148" handler="BOSS">
+                    <spot x="2591.6604" y="845.85406" z="2898.3892" h="16"/>
+                </spawn>
+                <spawn npc_id="805395" respawn_time="295">
+                    <spot x="2590.3647" y="838.8512" z="2897.468" h="93"/>
+                </spawn>
+                <spawn npc_id="805528" respawn_time="295">
+                    <spot x="2587.8608" y="839.2708" z="2897.4675" h="83"/>
+                </spawn>
+                <spawn npc_id="805529" respawn_time="295">
+                    <spot x="2585.961" y="840.96356" z="2897.4683" h="73"/>
+                </spawn>
+                <spawn npc_id="805530" respawn_time="295">
+                    <spot x="2585.2776" y="843.22626" z="2897.4678" h="60"/>
+                </spawn>
+                <spawn npc_id="805594" respawn_time="295">
+                    <spot x="2592.3298" y="839.6926" z="2897.468" h="103"/>
+                </spawn>
+                <spawn npc_id="883149" respawn_time="295">
+                    <spot x="2591.3403" y="812.7515" z="2896.8142" h="90"/>
+                    <spot x="2597.4995" y="867.16077" z="2893.7886" h="20"/>
+                    <spot x="2559.422" y="852.7527" z="2895.7288" h="56"/>
+                </spawn>
+                <spawn npc_id="883150" respawn_time="295">
+                    <spot x="2600.6868" y="856.1506" z="2897.0461" h="15"/>
+                    <spot x="2588.5771" y="847.29584" z="2897.771" h="36"/>
+                </spawn>
+                <spawn npc_id="883151" respawn_time="295">
+                    <spot x="2593.6587" y="842.99756" z="2897.7705" h="116"/>
+                </spawn>
+                <spawn npc_id="883152" respawn_time="295">
+                    <spot x="2611.5337" y="842.341" z="2895.1094" h="0"/>
+                    <spot x="2586.7422" y="824.9567" z="2896.2266" h="96"/>
+                    <spot x="2575.8757" y="854.1997" z="2896.4082" h="43"/>
+                </spawn>
+                <spawn npc_id="883153" respawn_time="295">
+                    <spot x="2601.2466" y="832.0494" z="2896.7322" h="106"/>
+                    <spot x="2573.4377" y="838.12085" z="2896.8047" h="63"/>
+                </spawn>
+
+                <spawn npc_id="883441" respawn_time="295">
+                    <spot x="2509.1677" y="776.8515" z="2869.5269" h="58"/>
+                    <spot x="2541.1252" y="783.26526" z="2869.5273" h="31"/>
+                    <spot x="2499.9177" y="801.23474" z="2869.527" h="15"/>
+                    <spot x="2529.465" y="829.1335" z="2869.5283" h="64"/>
+                </spawn>
+                <spawn npc_id="883442" respawn_time="295">
+                    <spot x="2505.7612" y="808.95154" z="2869.527" h="51"/>
+                </spawn>
+                <spawn npc_id="883443" respawn_time="295">
+                    <spot x="2536.8352" y="754.5083" z="2869.5269" h="32"/>
+                </spawn>
+                <spawn npc_id="883444" respawn_time="295">
+                    <spot x="2530.8506" y="807.19885" z="2869.5273" h="44"/>
+                </spawn>
+                <spawn npc_id="883445" respawn_time="295">
+                    <spot x="2526.7048" y="787.82214" z="2869.527" h="14"/>
+                </spawn>
+                <spawn npc_id="883453" respawn_time="295">
+                    <spot x="2479.4202" y="680.112" z="2869.5273" h="76"/>
+                    <spot x="2466.5403" y="665.7923" z="2869.5266" h="85"/>
+                    <spot x="2506.171" y="648.5914" z="2869.5266" h="94"/>
+                    <spot x="2496.323" y="619.21857" z="2869.527" h="113"/>
+                </spawn>
+                <spawn npc_id="883454" respawn_time="295">
+                    <spot x="2489.0369" y="661.4857" z="2869.5266" h="2"/>
+                </spawn>
+                <spawn npc_id="883455" respawn_time="295">
+                    <spot x="2478.167" y="654.46625" z="2869.5266" h="0"/>
+                </spawn>
+                <spawn npc_id="883456" respawn_time="295">
+                    <spot x="2508.488" y="677.675" z="2869.5266" h="95"/>
+                </spawn>
+                <spawn npc_id="883457" respawn_time="295">
+                    <spot x="2495.416" y="640.8498" z="2869.5266" h="63"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Sootguzzle Outpost Flag -->
+                <spawn npc_id="805458">
+                    <spot x="2589.678" y="843.91931" z="2931.6094" h="119"/>
+                </spawn>            
+                <spawn npc_id="883016" handler="BOSS">
+                    <spot x="2591.6604" y="845.85406" z="2897.9873" h="16"/>
+                </spawn>
+                <spawn npc_id="883440" handler="ATTACKER">
+                    <spot x="2595.7686" y="850.64294" z="2897.5413" h="119"/>
+                </spawn>
+                <spawn npc_id="883017" respawn_time="295">
+                    <spot x="2591.3403" y="812.7515" z="2896.8142" h="90"/>
+                    <spot x="2559.422" y="852.7527" z="2895.7288" h="56"/>
+                    <spot x="2597.4995" y="867.16077" z="2893.7886" h="20"/>
+                </spawn>
+                <spawn npc_id="883018" respawn_time="295">
+                    <spot x="2588.5771" y="847.29584" z="2897.771" h="36"/>
+                    <spot x="2600.6868" y="856.1506" z="2897.0461" h="15"/>
+                </spawn>
+                <spawn npc_id="883019" respawn_time="295">
+                    <spot x="2593.6587" y="842.99756" z="2897.7705" h="116"/>
+                </spawn>
+                <spawn npc_id="883020" respawn_time="295">
+                    <spot x="2586.7422" y="824.9567" z="2896.2266" h="96"/>
+                    <spot x="2575.8757" y="854.1997" z="2896.4082" h="43"/>
+                    <spot x="2611.5337" y="842.341" z="2895.1094" h="0"/>
+                </spawn>
+                <spawn npc_id="883021" respawn_time="295">
+                    <spot x="2573.4377" y="838.12085" z="2896.8047" h="63"/>
+                    <spot x="2601.2466" y="832.0494" z="2896.7322" h="106"/>
+                </spawn>
+
+                <spawn npc_id="883759" respawn_time="295">
+                    <spot x="2495.7795" y="796.7479" z="2869.527" h="0"/>
+                    <spot x="2511.9612" y="780.2985" z="2869.5269" h="0"/>
+                    <spot x="2541.101" y="778.2244" z="2869.5273" h="0"/>
+                    <spot x="2527.9336" y="828.0697" z="2869.5283" h="0"/>
+                    <spot x="2486.1733" y="680.5028" z="2869.5273" h="114"/>
+                    <spot x="2473.5518" y="667.09" z="2869.5266" h="4"/>
+                    <spot x="2505.8555" y="652.09985" z="2869.5266" h="119"/>
+                    <spot x="2498.5703" y="624.1695" z="2869.527" h="114"/>
+                </spawn>
+                <spawn npc_id="883760" respawn_time="295">
+                    <spot x="2511.823" y="811.6229" z="2869.527" h="0"/>
+                    <spot x="2493.1416" y="661.7988" z="2869.5266" h="2"/>
+                </spawn>
+                <spawn npc_id="883761" respawn_time="295">
+                    <spot x="2537.887" y="754.6419" z="2869.5269" h="0"/>
+                    <spot x="2479.0674" y="654.2749" z="2869.5266" h="116"/>
+                </spawn>
+                <spawn npc_id="883762" respawn_time="295">
+                    <spot x="2535.0073" y="811.63446" z="2869.5273" h="0"/>
+                    <spot x="2507.2173" y="673.8217" z="2869.5266" h="0"/>
+                </spawn>
+                <spawn npc_id="883763" respawn_time="295">
+                    <spot x="2524.0256" y="794.2796" z="2869.527" h="0"/>
+                    <spot x="2492.0923" y="641.2199" z="2869.5266" h="1"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        
+        <!-- Update Balaur, Asmo and Elyos Quest Spawns - 30.9.16 -->
+        <base_spawn id="145"> <!-- Flameruin Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Flameruin Outpost Flag -->
+                <spawn npc_id="805460">
+                    <spot x="2931.21" y="559.69861" z="2926.0378" h="119"/>
+                </spawn>            
+                <spawn npc_id="883166" handler="BOSS">
+                    <spot x="2928.9858" y="557.99933" z="2893.5537" h="74"/>
+                </spawn>
+                <spawn npc_id="805419" respawn_time="295">
+                    <spot x="2931.494" y="564.4885" z="2892.817" h="30"/>
+                </spawn>
+                <spawn npc_id="805537" respawn_time="295">
+                    <spot x="2935.9756" y="559.65875" z="2892.817" h="0"/>
+                </spawn>
+                <spawn npc_id="805538" respawn_time="295">
+                    <spot x="2935.3037" y="562.04004" z="2892.817" h="10"/>
+                </spawn>
+                <spawn npc_id="805539" respawn_time="295">
+                    <spot x="2933.8" y="564.04254" z="2892.8174" h="20"/>
+                </spawn>
+                <spawn npc_id="805597" respawn_time="295">
+                    <spot x="2934.9873" y="557.4143" z="2892.8171" h="110"/>
+                </spawn>
+
+                <spawn npc_id="883167" respawn_time="295">
+                    <spot x="2909.3425" y="580.229" z="2886.5327" h="53"/>
+                    <spot x="2925.1472" y="530.9675" z="2888.5356" h="90"/>
+                    <spot x="2962.0122" y="563.0118" z="2886.385" h="10"/>
+                </spawn>
+                <spawn npc_id="883168" respawn_time="295">
+                    <spot x="2914.272" y="556.92346" z="2892.17" h="30"/>
+                    <spot x="2927.5466" y="561.1861" z="2893.1157" h="53"/>
+                </spawn>
+                <spawn npc_id="883169" respawn_time="295">
+                    <spot x="2932.0742" y="556.109" z="2893.119" h="93"/>
+                </spawn>
+                <spawn npc_id="883170" respawn_time="295">
+                    <spot x="2918.9148" y="573.59424" z="2891.2139" h="46"/>
+                    <spot x="2926.5605" y="542.2294" z="2891.7412" h="83"/>
+                    <spot x="2949.5037" y="557.98016" z="2891.9543" h="0"/>
+                </spawn>
+                <spawn npc_id="883171" respawn_time="295">
+                    <spot x="2939.1133" y="573.548" z="2892.3792" h="20"/>
+                    <spot x="2939.9817" y="546.1879" z="2892.067" h="106"/>
+                </spawn>
+                <spawn npc_id="883460" respawn_time="295">
+                    <spot x="2983.0376" y="511.20078" z="2885.6665" h="118"/>
+                    <spot x="2997.0647" y="520.5857" z="2885.0222" h="0"/>
+                    <spot x="2978.9026" y="599.41144" z="2877.7332" h="63"/>
+                    <spot x="3000.6206" y="588.39453" z="2877.352" h="113"/>
+                </spawn>
+                <spawn npc_id="883461" respawn_time="295">
+                    <spot x="2999.1345" y="553.31384" z="2881.243" h="0"/>
+                </spawn>
+                <spawn npc_id="883462" respawn_time="295">
+                    <spot x="3001.9268" y="569.0062" z="2880.5664" h="64"/>
+                </spawn>
+                <spawn npc_id="883463" respawn_time="295">
+                    <spot x="3012.1763" y="532.50073" z="2882.879" h="116"/>
+                </spawn>
+                <spawn npc_id="883464" respawn_time="295">
+                    <spot x="3020.8975" y="553.3426" z="2880.7341" h="113"/>
+                </spawn>
+                <spawn npc_id="883466" respawn_time="295">
+                    <spot x="2893.7498" y="501.6882" z="2888.097" h="11"/>
+                    <spot x="2850.2888" y="527.7137" z="2888.1206" h="68"/>
+                    <spot x="2891.1106" y="523.6204" z="2887.1877" h="1"/>
+                    <spot x="2869.012" y="561.98553" z="2884.8782" h="15"/>
+                </spawn>
+                <spawn npc_id="883467" respawn_time="295">
+                    <spot x="2868.3438" y="517.8944" z="2889.0337" h="1"/>
+                </spawn>
+                <spawn npc_id="883468" respawn_time="295">
+                    <spot x="2858.144" y="542.4511" z="2886.1929" h="0"/>
+                </spawn>
+                <spawn npc_id="883469" respawn_time="295">
+                    <spot x="2878.751" y="511.6019" z="2889.0078" h="48"/>
+                </spawn>
+                <spawn npc_id="883470" respawn_time="295">
+                    <spot x="2866.1335" y="533.4853" z="2886.8557" h="58"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Flameruin Outpost Flag -->
+                <spawn npc_id="805459">
+                    <spot x="2931.21" y="559.69861" z="2926.0378" h="119"/>
+                </spawn>            
+                <spawn npc_id="883160" handler="BOSS">
+                    <spot x="2928.9858" y="557.99933" z="2893.5537" h="74"/>
+                </spawn>
+                <spawn npc_id="805396" respawn_time="295">
+                    <spot x="2931.494" y="564.4885" z="2892.817" h="30"/>
+                </spawn>                
+                <spawn npc_id="805534" respawn_time="295">
+                    <spot x="2935.9756" y="559.65875" z="2892.817" h="0"/>
+                </spawn>
+                <spawn npc_id="805535" respawn_time="295">
+                    <spot x="2935.3037" y="562.04004" z="2892.817" h="10"/>
+                </spawn>
+                <spawn npc_id="805536" respawn_time="295">
+                    <spot x="2933.8" y="564.04254" z="2892.8174" h="20"/>
+                </spawn>
+                <spawn npc_id="805589" respawn_time="295">
+                    <spot x="2934.9873" y="557.4143" z="2892.8171" h="110"/>
+                </spawn>
+
+                <spawn npc_id="883161" respawn_time="295">
+                    <spot x="2909.3425" y="580.229" z="2886.5327" h="53"/>
+                    <spot x="2962.0122" y="563.0118" z="2886.385" h="10"/>
+                    <spot x="2925.1472" y="530.9675" z="2888.5356" h="90"/>
+                </spawn>
+                <spawn npc_id="883162" respawn_time="295">
+                    <spot x="2927.5466" y="561.1861" z="2893.1157" h="53"/>
+                    <spot x="2914.272" y="556.92346" z="2892.17" h="30"/>
+                </spawn>
+                <spawn npc_id="883163" respawn_time="295">
+                    <spot x="2932.0742" y="556.109" z="2893.119" h="93"/>
+                </spawn>
+                <spawn npc_id="883164" respawn_time="295">
+                    <spot x="2918.9148" y="573.59424" z="2891.2139" h="46"/>
+                    <spot x="2949.5037" y="557.98016" z="2891.9543" h="0"/>
+                    <spot x="2926.5605" y="542.2294" z="2891.7412" h="83"/>
+                </spawn>
+                <spawn npc_id="883165" respawn_time="295">
+                    <spot x="2939.1133" y="573.548" z="2892.3792" h="20"/>
+                    <spot x="2939.9817" y="546.1879" z="2892.067" h="106"/>
+                </spawn>
+                <spawn npc_id="883460" respawn_time="295">
+                    <spot x="2978.852" y="510.18414" z="2885.4067" h="5"/>
+                    <spot x="2982.6943" y="599.43036" z="2877.645" h="11"/>
+                    <spot x="3000.7354" y="582.08936" z="2878.3542" h="3"/>
+                    <spot x="2997.0647" y="520.5857" z="2885.0222" h="0"/>
+                </spawn>
+                <spawn npc_id="883461" respawn_time="295">
+                    <spot x="3001.0522" y="553.2637" z="2881.4443" h="5"/>
+                </spawn>
+                <spawn npc_id="883462" respawn_time="295">
+                    <spot x="3009.806" y="568.65564" z="2879.7551" h="5"/>
+                </spawn>
+                <spawn npc_id="883463" respawn_time="295">
+                    <spot x="3011.595" y="539.3171" z="2881.9934" h="7"/>
+                </spawn>
+                <spawn npc_id="883472" respawn_time="295">
+                    <spot x="2890.4817" y="499.67365" z="2888.3147" h="3"/>
+                    <spot x="2856.1108" y="528.6002" z="2887.468" h="113"/>
+                    <spot x="2888.5557" y="524.3542" z="2887.223" h="0"/>
+                    <spot x="2867.456" y="559.58386" z="2884.9092" h="6"/>
+                </spawn>
+                <spawn npc_id="883473" respawn_time="295">
+                    <spot x="2866.499" y="519.1941" z="2889.0322" h="3"/>
+                </spawn>
+                <spawn npc_id="883474" respawn_time="295">
+                    <spot x="2858.144" y="542.4511" z="2886.1929" h="0"/>
+                </spawn>
+                <spawn npc_id="883475" respawn_time="295">
+                    <spot x="2878.2363" y="511.32355" z="2889.1255" h="11"/>
+                </spawn>
+                <spawn npc_id="883476" respawn_time="295">
+                    <spot x="2870.0144" y="532.555" z="2886.6882" h="1"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Flameruin Outpost Flag -->
+                <spawn npc_id="805461">
+                    <spot x="2931.21" y="559.69861" z="2926.0378" h="119"/>
+                </spawn>            
+                <spawn npc_id="883022" handler="BOSS">
+                    <spot x="2928.9858" y="557.9993" z="2893.332" h="73"/>
+                </spawn>
+                <spawn npc_id="883459" handler="ATTACKER">
+                    <spot x="2924.359" y="553.76416" z="2892.891" h="119"/>
+                </spawn>
+                <spawn npc_id="883023" respawn_time="295">
+                    <spot x="2909.3425" y="580.229" z="2886.5327" h="53"/>
+                    <spot x="2962.0122" y="563.0118" z="2886.385" h="10"/>
+                    <spot x="2925.1472" y="530.9675" z="2888.5356" h="90"/>
+                </spawn>
+                <spawn npc_id="883024" respawn_time="295">
+                    <spot x="2927.5466" y="561.1861" z="2893.1157" h="53"/>
+                    <spot x="2914.272" y="556.92346" z="2892.17" h="30"/>
+                </spawn>
+                <spawn npc_id="883025" respawn_time="295">
+                    <spot x="2932.0742" y="556.109" z="2893.119" h="93"/>
+                </spawn>
+                <spawn npc_id="883026" respawn_time="295">
+                    <spot x="2918.9148" y="573.59424" z="2891.2139" h="46"/>
+                    <spot x="2949.5037" y="557.98016" z="2891.9543" h="0"/>
+                    <spot x="2926.5605" y="542.2294" z="2891.7412" h="83"/>
+                </spawn>
+                <spawn npc_id="883027" respawn_time="295">
+                    <spot x="2939.1133" y="573.548" z="2892.3792" h="20"/>
+                    <spot x="2939.9817" y="546.1879" z="2892.067" h="106"/>
+                </spawn>
+
+                <spawn npc_id="883774" respawn_time="295">
+                    <spot x="2889.0269" y="497.1214" z="2888.568" h="38"/>
+                    <spot x="2856.9812" y="525.4638" z="2887.254" h="75"/>
+                    <spot x="2891.6614" y="523.03314" z="2887.1726" h="81"/>
+                    <spot x="2863.991" y="558.0174" z="2884.6877" h="103"/>
+                    <spot x="2974.201" y="512.5581" z="2884.6616" h="88"/>
+                    <spot x="2978.0183" y="592.3146" z="2878.715" h="90"/>
+                    <spot x="2995.9446" y="582.72107" z="2878.627" h="51"/>
+                    <spot x="3001.1392" y="524.38983" z="2884.3455" h="53"/>
+                </spawn>
+                <spawn npc_id="883775" respawn_time="295">
+                    <spot x="2861.7825" y="515.95184" z="2889.347" h="77"/>
+                    <spot x="3000.0896" y="549.44684" z="2881.334" h="66"/>
+                </spawn>
+                <spawn npc_id="883776" respawn_time="295">
+                    <spot x="2854.1917" y="544.0749" z="2886.1287" h="14"/>
+                    <spot x="3011.7766" y="566.3263" z="2879.961" h="70"/>
+                </spawn>
+                <spawn npc_id="883777" respawn_time="295">
+                    <spot x="2871.8022" y="506.4094" z="2890.989" h="105"/>
+                    <spot x="3009.7068" y="533.9229" z="2882.7612" h="102"/>
+                </spawn>
+                <spawn npc_id="883778" respawn_time="295">
+                    <spot x="2867.927" y="531.4031" z="2886.9216" h="5"/>
+                    <spot x="3014.0073" y="549.5372" z="2881.0835" h="99"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Elyos, Asmos and Balaur Quest Spawns - 02.10.16 -->
+        <base_spawn id="146"> <!-- Stokebellow Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Stokebellow Outpost Flag -->
+                <spawn npc_id="805463">
+                    <spot x="3000.7993" y="899.21881" z="2883.9414" h="119"/>
+                </spawn>            
+                <spawn npc_id="883178" handler="BOSS">
+                    <spot x="2998.3445" y="900.58789" z="2849.5806" h="51"/>
+                </spawn>
+                <spawn npc_id="805420" respawn_time="295">
+                    <spot x="3005.3352" y="900.4705" z="2848.7788" h="6"/>
+                </spawn>
+                <spawn npc_id="805543" respawn_time="295">
+                    <spot x="3005.3108" y="897.77747" z="2848.7788" h="116"/>
+                </spawn>
+                <spawn npc_id="805544" respawn_time="295">
+                    <spot x="3004.1155" y="895.8191" z="2848.7786" h="106"/>
+                </spawn>
+                <spawn npc_id="805545" respawn_time="295">
+                    <spot x="3002.0315" y="894.5471" z="2848.7786" h="96"/>
+                </spawn>
+                <spawn npc_id="883179" respawn_time="295">
+                    <spot x="2973.2488" y="895.9021" z="2844.0786" h="73"/>
+                    <spot x="3013.1184" y="925.37524" z="2842.8516" h="30"/>
+                    <spot x="3009.7341" y="873.2068" z="2844.1182" h="106"/>
+                </spawn>
+                <spawn npc_id="883180" respawn_time="295">
+                    <spot x="2992.61" y="914.2411" z="2848.1243" h="46"/>
+                    <spot x="3001.8044" y="902.753" z="2849.081" h="23"/>
+                </spawn>
+                <spawn npc_id="883181" respawn_time="295">
+                    <spot x="2998.1897" y="896.45074" z="2849.0786" h="73"/>
+                </spawn>
+                <spawn npc_id="883182" respawn_time="295">
+                    <spot x="2981.011" y="899.0027" z="2847.4062" h="63"/>
+                    <spot x="3008.632" y="914.41876" z="2847.8792" h="20"/>
+                    <spot x="3004.5955" y="881.91815" z="2848.1648" h="93"/>
+                </spawn>
+                <spawn npc_id="883183" respawn_time="295">
+                    <spot x="2990.7834" y="886.1956" z="2848.0308" h="80"/>
+                    <spot x="3016.2148" y="895.537" z="2848.342" h="113"/>
+                </spawn>
+
+                <spawn npc_id="883479" respawn_time="295">
+                    <spot x="3106.2605" y="859.01764" z="2845.97" h="73"/>
+                    <spot x="3125.828" y="901.7639" z="2822.0642" h="2"/>
+                    <spot x="3135.503" y="855.23505" z="2821.3245" h="5"/>
+                    <spot x="3153.7031" y="877.7684" z="2822.023" h="114"/>
+                    <spot x="3091.0654" y="806.3005" z="2773.9111" h="49"/>
+                </spawn>
+                <spawn npc_id="883480" respawn_time="295">
+                    <spot x="3093.0337" y="796.514" z="2773.9111" h="69"/>
+                </spawn>
+                <spawn npc_id="883481" respawn_time="295">
+                    <spot x="3137.2507" y="870.719" z="2821.4026" h="0"/>
+                </spawn>
+                <spawn npc_id="883482" respawn_time="295">
+                    <spot x="3146.9634" y="897.68036" z="2821.314" h="7"/>
+                </spawn>
+                <spawn npc_id="883483" respawn_time="295">
+                    <spot x="3123.4338" y="842.364" z="2774.0361" h="77"/>
+                </spawn>
+                <spawn npc_id="883485" respawn_time="295">
+                    <spot x="2865.504" y="920.4983" z="2795.6697" h="109"/>
+                    <spot x="2889.2627" y="931.29175" z="2795.086" h="116"/>
+                    <spot x="2854.3984" y="975.2432" z="2794.1294" h="3"/>
+                    <spot x="2887.6306" y="968.888" z="2794.1506" h="1"/>
+                </spawn>
+                <spawn npc_id="883486" respawn_time="295">
+                    <spot x="2876.3464" y="965.18994" z="2794.1301" h="1"/>
+                </spawn>
+                <spawn npc_id="883487" respawn_time="295">
+                    <spot x="2874.4714" y="930.9967" z="2794.2434" h="0"/>
+                </spawn>
+                <spawn npc_id="883488" respawn_time="295">
+                    <spot x="2884.8984" y="942.7667" z="2794.098" h="71"/>
+                </spawn>
+                <spawn npc_id="883489" respawn_time="295">
+                    <spot x="2865.759" y="970.15094" z="2794.1267" h="7"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Stokebellow Outpost Flag -->
+                <spawn npc_id="805462">
+                    <spot x="3000.7993" y="899.21881" z="2883.9414" h="119"/>
+                </spawn>            
+                <spawn npc_id="883172" handler="BOSS">
+                    <spot x="2998.3445" y="900.58789" z="2849.5806" h="51"/>
+                </spawn>
+                <spawn npc_id="805397" respawn_time="295">
+                    <spot x="3005.3352" y="900.4705" z="2848.7788" h="6"/>
+                </spawn>
+                <spawn npc_id="805540" respawn_time="295">
+                    <spot x="3005.3108" y="897.77747" z="2848.7788" h="116"/>
+                </spawn>
+                <spawn npc_id="805541" respawn_time="295">
+                    <spot x="3004.1155" y="895.8191" z="2848.7786" h="106"/>
+                </spawn>
+                <spawn npc_id="805542" respawn_time="295">
+                    <spot x="3002.0315" y="894.5471" z="2848.7786" h="96"/>
+                </spawn>
+                <spawn npc_id="883173" respawn_time="295">
+                    <spot x="2973.2488" y="895.9021" z="2844.0786" h="73"/>
+                    <spot x="3009.7341" y="873.2068" z="2844.1182" h="106"/>
+                    <spot x="3013.1184" y="925.37524" z="2842.8516" h="30"/>
+                </spawn>
+                <spawn npc_id="883174" respawn_time="295">
+                    <spot x="2992.61" y="914.2411" z="2848.1243" h="46"/>
+                    <spot x="3001.8044" y="902.753" z="2849.081" h="23"/>
+                </spawn>
+                <spawn npc_id="883175" respawn_time="295">
+                    <spot x="2998.1897" y="896.45074" z="2849.0786" h="73"/>
+                </spawn>
+                <spawn npc_id="883176" respawn_time="295">
+                    <spot x="2981.011" y="899.0027" z="2847.4062" h="63"/>
+                    <spot x="3004.5955" y="881.91815" z="2848.1648" h="93"/>
+                    <spot x="3008.632" y="914.41876" z="2847.8792" h="20"/>
+                </spawn>
+                <spawn npc_id="883177" respawn_time="295">
+                    <spot x="2990.7834" y="886.1956" z="2848.0308" h="80"/>
+                    <spot x="3016.2148" y="895.537" z="2848.342" h="113"/>
+                </spawn>
+
+                <spawn npc_id="883479" respawn_time="295">
+                    <spot x="3114.4746" y="858.9699" z="2845.97" h="30"/>
+                    <spot x="3129.7158" y="902.10254" z="2821.9358" h="117"/>
+                    <spot x="3139.3962" y="856.062" z="2821.2002" h="4"/>
+                    <spot x="3154.7166" y="882.2027" z="2821.4146" h="35"/>
+                    <spot x="3096.1895" y="814.37335" z="2773.9111" h="15"/>
+                </spawn>
+                <spawn npc_id="883480" respawn_time="295">
+                    <spot x="3089.984" y="799.551" z="2773.9116" h="69"/>
+                </spawn>
+                <spawn npc_id="883481" respawn_time="295">
+                    <spot x="3127.75" y="875.3861" z="2821.7651" h="48"/>
+                </spawn>
+                <spawn npc_id="883482" respawn_time="295">
+                    <spot x="3140.4788" y="899.01245" z="2821.5452" h="7"/>
+                </spawn>
+                <spawn npc_id="883483" respawn_time="295">
+                    <spot x="3127.8293" y="840.33704" z="2774.0361" h="38"/>
+                </spawn>
+                <spawn npc_id="883491" respawn_time="295">
+                    <spot x="2890.8535" y="932.6778" z="2795.075" h="15"/>
+                    <spot x="2889.0383" y="969.85547" z="2794.1553" h="21"/>
+                    <spot x="2856.5388" y="973.73615" z="2794.125" h="30"/>
+                    <spot x="2859.4695" y="924.7556" z="2795.4717" h="66"/>
+                </spawn>
+                <spawn npc_id="883492" respawn_time="295">
+                    <spot x="2878.192" y="965.13837" z="2794.1318" h="5"/>
+                </spawn>
+                <spawn npc_id="883493" respawn_time="295">
+                    <spot x="2874.4714" y="930.9967" z="2794.2434" h="0"/>
+                </spawn>
+                <spawn npc_id="883494" respawn_time="295">
+                    <spot x="2893.9568" y="945.98615" z="2795.0518" h="21"/>
+                </spawn>
+                <spawn npc_id="883495" respawn_time="295">
+                    <spot x="2863.0203" y="965.21545" z="2794.107" h="102"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Stokebellow Outpost Flag -->
+                <spawn npc_id="805464">
+                    <spot x="3000.7993" y="899.21881" z="2883.9414" h="119"/>
+                </spawn>            
+                <spawn npc_id="883028" handler="BOSS">
+                    <spot x="2998.3445" y="900.5879" z="2849.2969" h="50"/>
+                </spawn>
+                <spawn npc_id="883478" handler="ATTACKER">
+                    <spot x="2993.0522" y="903.77875" z="2848.8447" h="119"/>
+                </spawn>
+                <spawn npc_id="883029" respawn_time="295">
+                    <spot x="2973.2488" y="895.9021" z="2844.0786" h="73"/>
+                    <spot x="3009.7341" y="873.2068" z="2844.1182" h="106"/>
+                    <spot x="3013.1184" y="925.37524" z="2842.8516" h="30"/>
+                </spawn>
+                <spawn npc_id="883030" respawn_time="295">
+                    <spot x="2992.61" y="914.2411" z="2848.1243" h="46"/>
+                    <spot x="3001.8044" y="902.753" z="2849.081" h="23"/>
+                </spawn>
+                <spawn npc_id="883031" respawn_time="295">
+                    <spot x="2998.1897" y="896.45074" z="2849.0786" h="73"/>
+                </spawn>
+                <spawn npc_id="883032" respawn_time="295">
+                    <spot x="2981.011" y="899.0027" z="2847.4062" h="63"/>
+                    <spot x="3004.5955" y="881.91815" z="2848.1648" h="93"/>
+                    <spot x="3008.632" y="914.41876" z="2847.8792" h="20"/>
+                </spawn>
+                <spawn npc_id="883033" respawn_time="295">
+                    <spot x="2990.7834" y="886.1956" z="2848.0308" h="80"/>
+                    <spot x="3016.2148" y="895.537" z="2848.342" h="113"/>
+                </spawn>
+
+                <spawn npc_id="883789" respawn_time="295">
+                    <spot x="2889.9883" y="926.4265" z="2795.3787" h="82"/>
+                    <spot x="2889.6091" y="965.9736" z="2794.1472" h="17"/>
+                    <spot x="2866.3235" y="928.1757" z="2795.5334" h="26"/>
+                    <spot x="2852.139" y="972.01044" z="2794.1152" h="45"/>
+                    <spot x="3112.1274" y="855.78314" z="2845.97" h="113"/>
+                    <spot x="3135.5483" y="854.8898" z="2821.3198" h="0"/>
+                    <spot x="3096.3672" y="814.7568" z="2773.9111" h="7"/>
+                    <spot x="3125.7466" y="902.10254" z="2822.0696" h="7"/>
+                    <spot x="3153.7666" y="878.1108" z="2822.0237" h="119"/>
+                </spawn>
+                <spawn npc_id="883790" respawn_time="295">
+                    <spot x="2876.752" y="970.2372" z="2794.1423" h="110"/>
+                    <spot x="3101.2324" y="801.18506" z="2773.9114" h="3"/>
+                </spawn>
+                <spawn npc_id="883791" respawn_time="295">
+                    <spot x="2869.7708" y="928.6714" z="2795.4053" h="54"/>
+                    <spot x="3130.803" y="870.6228" z="2821.6199" h="118"/>
+                </spawn>
+                <spawn npc_id="883792" respawn_time="295">
+                    <spot x="2893.0308" y="945.6481" z="2795.0518" h="33"/>
+                    <spot x="3145.883" y="897.5385" z="2821.349" h="0"/>
+                </spawn>
+                <spawn npc_id="883793" respawn_time="295">
+                    <spot x="2869.7979" y="968.57477" z="2794.1287" h="74"/>
+                    <spot x="3125.3237" y="836.6614" z="2774.0361" h="6"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Balaur, Asmos and Elyos Spawns - 02.10.16 -->
+        <base_spawn id="147"> <!-- Blazerack Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Blazerack Outpost Flag -->
+                <spawn npc_id="805466">
+                    <spot x="626.47028" y="2874.0493" z="2722.3196" h="119"/>
+                </spawn>            
+                <spawn npc_id="883190" handler="BOSS">
+                    <spot x="629.22772" y="2874.915" z="2694.1826" h="6"/>
+                </spawn>
+                <spawn npc_id="805421" respawn_time="295">
+                    <spot x="626.54236" y="2869.3267" z="2693.0813" h="90"/>
+                </spawn>
+                <spawn npc_id="805549" respawn_time="295">
+                    <spot x="624.2157" y="2869.8" z="2693.081" h="80"/>
+                </spawn>
+                <spawn npc_id="805550" respawn_time="295">
+                    <spot x="622.42487" y="2871.3938" z="2693.081" h="70"/>
+                </spawn>
+                <spawn npc_id="805551" respawn_time="295">
+                    <spot x="621.64606" y="2873.7239" z="2693.0813" h="60"/>
+                </spawn>
+                <spawn npc_id="805603" respawn_time="295">
+                    <spot x="622.1839" y="2876.4001" z="2693.0813" h="50"/>
+                </spawn>
+                <spawn npc_id="883191" respawn_time="295">
+                    <spot x="607.86053" y="2905.0066" z="2684.1172" h="53"/>
+                    <spot x="610.1994" y="2842.642" z="2684.927" h="90"/>
+                    <spot x="654.35236" y="2863.643" z="2687.1917" h="0"/>
+                </spawn>
+                <spawn npc_id="883192" respawn_time="295">
+                    <spot x="627.1564" y="2877.75" z="2693.3862" h="26"/>
+                    <spot x="641.3431" y="2880.358" z="2692.6594" h="15"/>
+                </spawn>
+                <spawn npc_id="883193" respawn_time="295">
+                    <spot x="629.2176" y="2871.3372" z="2693.382" h="106"/>
+                </spawn>
+                <spawn npc_id="883194" respawn_time="295">
+                    <spot x="620.7718" y="2892.559" z="2691.0034" h="40"/>
+                    <spot x="611.6296" y="2857.0225" z="2690.2908" h="73"/>
+                    <spot x="647.49316" y="2863.4875" z="2689.6414" h="106"/>
+                </spawn>
+                <spawn npc_id="883195" respawn_time="295">
+                    <spot x="609.8839" y="2878.619" z="2692.4465" h="53"/>
+                    <spot x="628.27563" y="2857.6309" z="2692.3208" h="96"/>
+                </spawn>
+
+                <spawn npc_id="883498" respawn_time="295">
+                    <spot x="484.6242" y="2773.1492" z="2836.2258" h="61"/>
+                    <spot x="469.66992" y="2790.7966" z="2836.852" h="114"/>
+                    <spot x="474.94424" y="2826.1677" z="2838.0999" h="4"/>
+                    <spot x="458.4696" y="2817.2847" z="2838.139" h="2"/>
+                </spawn>
+                <spawn npc_id="883499" respawn_time="295">
+                    <spot x="493.27856" y="2789.3362" z="2837.1038" h="0"/>
+                </spawn>
+                <spawn npc_id="883500" respawn_time="295">
+                    <spot x="498.94046" y="2775.1272" z="2836.6265" h="69"/>
+                </spawn>
+                <spawn npc_id="883501" respawn_time="295">
+                    <spot x="481.70242" y="2804.3994" z="2837.4722" h="0"/>
+                </spawn>
+                <spawn npc_id="883502" respawn_time="295">
+                    <spot x="450.794" y="2778.3596" z="2835.7634" h="73"/>
+                </spawn>
+                <spawn npc_id="883504" respawn_time="295">
+                    <spot x="438.85867" y="2938.1992" z="2836.9146" h="112"/>
+                    <spot x="448.629" y="2950.6323" z="2837.1826" h="119"/>
+                    <spot x="405.66498" y="2947.4788" z="2834.0417" h="109"/>
+                    <spot x="429.42825" y="2979.7988" z="2837.1995" h="115"/>
+                </spawn>
+                <spawn npc_id="883505" respawn_time="295">
+                    <spot x="409.99316" y="2965.5308" z="2834.1633" h="4"/>
+                </spawn>
+                <spawn npc_id="883506" respawn_time="295">
+                    <spot x="421.33078" y="2952.8252" z="2835.0369" h="0"/>
+                </spawn>
+                <spawn npc_id="883507" respawn_time="295">
+                    <spot x="425.89905" y="2965.2349" z="2835.429" h="30"/>
+                </spawn>
+                <spawn npc_id="883508" respawn_time="295">
+                    <spot x="435.69293" y="2957.1755" z="2836.146" h="119"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Blazerack Outpost Flag -->
+                <spawn npc_id="805465">
+                    <spot x="626.47028" y="2874.0493" z="2722.3196" h="119"/>
+                </spawn>            
+                <spawn npc_id="883184" handler="BOSS">
+                    <spot x="629.22772" y="2874.915" z="2694.1826" h="6"/>
+                </spawn>
+                <spawn npc_id="805398" respawn_time="295">
+                    <spot x="626.54236" y="2869.3267" z="2693.0813" h="90"/>
+                </spawn>
+                <spawn npc_id="805546" respawn_time="295">
+                    <spot x="624.2157" y="2869.8" z="2693.081" h="80"/>
+                </spawn>
+                <spawn npc_id="805547" respawn_time="295">
+                    <spot x="622.42487" y="2871.3938" z="2693.081" h="70"/>
+                </spawn>
+                <spawn npc_id="805548" respawn_time="295">
+                    <spot x="621.64606" y="2873.7239" z="2693.0813" h="60"/>
+                </spawn>
+                <spawn npc_id="805595" respawn_time="295">
+                    <spot x="622.1839" y="2876.4001" z="2693.0813" h="73"/>
+                </spawn>
+                <spawn npc_id="883185" respawn_time="295">
+                    <spot x="654.35236" y="2863.643" z="2687.1917" h="0"/>
+                    <spot x="610.1994" y="2842.642" z="2684.927" h="90"/>
+                    <spot x="607.86053" y="2905.0066" z="2684.1172" h="53"/>
+                </spawn>
+                <spawn npc_id="883186" respawn_time="295">
+                    <spot x="627.1564" y="2877.75" z="2693.3862" h="26"/>
+                    <spot x="641.3431" y="2880.358" z="2692.6594" h="15"/>
+                </spawn>
+                <spawn npc_id="883187" respawn_time="295">
+                    <spot x="629.2176" y="2871.3372" z="2693.382" h="106"/>
+                </spawn>
+                <spawn npc_id="883188" respawn_time="295">
+                    <spot x="647.49316" y="2863.4875" z="2689.6414" h="106"/>
+                    <spot x="611.6296" y="2857.0225" z="2690.2908" h="73"/>
+                    <spot x="620.7718" y="2892.559" z="2691.0034" h="40"/>
+                </spawn>
+                <spawn npc_id="883189" respawn_time="295">
+                    <spot x="628.27563" y="2857.6309" z="2692.3208" h="96"/>
+                    <spot x="609.8839" y="2878.619" z="2692.4465" h="53"/>
+                </spawn>
+
+                <spawn npc_id="883498" respawn_time="295">
+                    <spot x="474.92795" y="2825.5452" z="2838.08" h="115"/>
+                    <spot x="461.7448" y="2818.7825" z="2838.0718" h="20"/>
+                    <spot x="471.97885" y="2792.7222" z="2836.9058" h="14"/>
+                    <spot x="484.58212" y="2774.09" z="2836.2178" h="8"/>
+                </spawn>
+                <spawn npc_id="883499" respawn_time="295">
+                    <spot x="497.0982" y="2788.3667" z="2837.0479" h="118"/>
+                </spawn>
+                <spawn npc_id="883500" respawn_time="295">
+                    <spot x="500.3915" y="2769.0288" z="2836.7126" h="92"/>
+                </spawn>
+                <spawn npc_id="883501" respawn_time="295">
+                    <spot x="486.0896" y="2806.983" z="2837.542" h="19"/>
+                </spawn>
+                <spawn npc_id="883502" respawn_time="295">
+                    <spot x="455.74088" y="2776.5479" z="2835.7139" h="2"/>
+                </spawn>
+                <spawn npc_id="883510" respawn_time="295">
+                    <spot x="448.63034" y="2950.683" z="2837.1802" h="0"/>
+                    <spot x="437.25793" y="2939.295" z="2836.749" h="117"/>
+                    <spot x="429.46005" y="2979.9995" z="2837.2244" h="119"/>
+                    <spot x="409.2868" y="2949.7175" z="2833.5696" h="116"/>
+                </spawn>
+                <spawn npc_id="883511" respawn_time="295">
+                    <spot x="409.9816" y="2965.089" z="2834.1067" h="115"/>
+                </spawn>
+                <spawn npc_id="883512" respawn_time="295">
+                    <spot x="421.33078" y="2952.8252" z="2835.0369" h="0"/>
+                </spawn>
+                <spawn npc_id="883513" respawn_time="295">
+                    <spot x="425.69434" y="2966.4524" z="2835.5261" h="111"/>
+                </spawn>
+                <spawn npc_id="883514" respawn_time="295">
+                    <spot x="436.42572" y="2958.0386" z="2836.1782" h="10"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Blazerack Outpost Flag -->
+                <spawn npc_id="805467">
+                    <spot x="626.47028" y="2874.0493" z="2722.3196" h="119"/>
+                </spawn>            
+                <spawn npc_id="883034" handler="BOSS">
+                    <spot x="629.2277" y="2874.915" z="2693.5957" h="6"/>
+                </spawn>
+                <spawn npc_id="883497" handler="ATTACKER">
+                    <spot x="635.55664" y="2877.012" z="2693.2048" h="119"/>
+                </spawn>
+                <spawn npc_id="883035" respawn_time="295">
+                    <spot x="607.86053" y="2905.0066" z="2684.1172" h="53"/>
+                    <spot x="610.1994" y="2842.642" z="2684.927" h="90"/>
+                    <spot x="654.35236" y="2863.643" z="2687.1917" h="0"/>
+                </spawn>
+                <spawn npc_id="883036" respawn_time="295">
+                    <spot x="627.1564" y="2877.75" z="2693.3862" h="26"/>
+                    <spot x="641.3431" y="2880.358" z="2692.6594" h="15"/>
+                </spawn>
+                <spawn npc_id="883037" respawn_time="295">
+                    <spot x="629.2176" y="2871.3372" z="2693.382" h="106"/>
+                </spawn>
+                <spawn npc_id="883038" respawn_time="295">
+                    <spot x="620.7718" y="2892.559" z="2691.0034" h="40"/>
+                    <spot x="611.6296" y="2857.0225" z="2690.2908" h="73"/>
+                    <spot x="647.49316" y="2863.4875" z="2689.6414" h="106"/>
+                </spawn>
+                <spawn npc_id="883039" respawn_time="295">
+                    <spot x="609.8839" y="2878.619" z="2692.4465" h="53"/>
+                    <spot x="628.27563" y="2857.6309" z="2692.3208" h="96"/>
+                </spawn>
+
+                <spawn npc_id="883804" respawn_time="295">
+                    <spot x="451.22696" y="2952.266" z="2837.1177" h="14"/>
+                    <spot x="439.88565" y="2940.7593" z="2836.934" h="8"/>
+                    <spot x="429.7781" y="2980.3955" z="2837.3025" h="5"/>
+                    <spot x="412.7852" y="2952.6462" z="2833.7898" h="9"/>
+                    <spot x="474.3952" y="2831.5818" z="2838.2505" h="30"/>
+                    <spot x="458.45624" y="2820.2168" z="2838.1182" h="34"/>
+                    <spot x="471.02362" y="2791.1401" z="2836.8462" h="116"/>
+                    <spot x="482.07065" y="2776.9019" z="2836.2034" h="37"/>
+                </spawn>
+                <spawn npc_id="883805" respawn_time="295">
+                    <spot x="411.26242" y="2967.3887" z="2834.4138" h="37"/>
+                    <spot x="491.58017" y="2790.1155" z="2837.091" h="75"/>
+                </spawn>
+                <spawn npc_id="883806" respawn_time="295">
+                    <spot x="423.9375" y="2953.047" z="2835.2527" h="10"/>
+                    <spot x="493.68073" y="2774.3984" z="2836.4792" h="59"/>
+                </spawn>
+                <spawn npc_id="883807" respawn_time="295">
+                    <spot x="427.38123" y="2967.9119" z="2835.7664" h="3"/>
+                    <spot x="484.01422" y="2799.5803" z="2837.3142" h="76"/>
+                </spawn>
+                <spawn npc_id="883808" respawn_time="295">
+                    <spot x="438.25174" y="2955.655" z="2836.3813" h="111"/>
+                    <spot x="455.44736" y="2777.5" z="2835.7795" h="11"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Balaur, Elyos and Asmos Spawns - 02.10.16 -->
+        <base_spawn id="148"> <!-- Smoldergeist Outpost -->
+            <simple_race race="ASMODIANS">
+                <!-- Smoldergeist Outpost Flag -->
+                <spawn npc_id="805469">
+                    <spot x="697.71118" y="3186.2139" z="2945.3616" h="119"/>
+                </spawn>            
+                <spawn npc_id="883202" handler="BOSS">
+                    <spot x="699.67249" y="3182.9934" z="2916.3474" h="103"/>
+                </spawn>
+                <spawn npc_id="805422" respawn_time="295">
+                    <spot x="693.3757" y="3187.5217" z="2915.1511" h="56"/>
+                </spawn>
+                <spawn npc_id="805555" respawn_time="295">
+                    <spot x="701.08496" y="3189.6228" z="2915.1504" h="13"/>
+                </spawn>
+                <spawn npc_id="805556" respawn_time="295">
+                    <spot x="698.9894" y="3190.6533" z="2915.1504" h="26"/>
+                </spawn>
+                <spawn npc_id="805557" respawn_time="295">
+                    <spot x="696.5772" y="3190.7834" z="2915.1506" h="36"/>
+                </spawn>
+                <spawn npc_id="805598" respawn_time="295">
+                    <spot x="694.50885" y="3189.4985" z="2915.151" h="46"/>
+                </spawn>
+                <spawn npc_id="883203" respawn_time="295">
+                    <spot x="673.9566" y="3170.3645" z="2909.4546" h="73"/>
+                    <spot x="724.6989" y="3175.2515" z="2910.0066" h="0"/>
+                    <spot x="702.8479" y="3213.7456" z="2910.2954" h="33"/>
+                </spawn>
+                <spawn npc_id="883204" respawn_time="295">
+                    <spot x="702.1393" y="3169.9648" z="2914.4883" h="103"/>
+                    <spot x="695.86005" y="3182.9622" z="2915.456" h="80"/>
+                </spawn>
+                <spawn npc_id="883205" respawn_time="295">
+                    <spot x="701.57367" y="3186.2612" z="2915.4568" h="0"/>
+                </spawn>
+                <spawn npc_id="883206" respawn_time="295">
+                    <spot x="682.10803" y="3176.4731" z="2913.576" h="70"/>
+                    <spot x="718.7145" y="3176.0054" z="2912.0076" h="113"/>
+                    <spot x="702.6717" y="3202.1875" z="2914.8005" h="23"/>
+                </spawn>
+                <spawn npc_id="883207" respawn_time="295">
+                    <spot x="687.71295" y="3198.936" z="2914.7256" h="50"/>
+                    <spot x="712.61444" y="3192.7703" z="2914.414" h="10"/>
+                </spawn>
+
+                <spawn npc_id="883517" respawn_time="295">
+                    <spot x="567.6112" y="3184.7341" z="2826.4333" h="9"/>
+                    <spot x="547.08093" y="3215.704" z="2824.5225" h="5"/>
+                    <spot x="586.40106" y="3220.0757" z="2824.3252" h="115"/>
+                    <spot x="544.40643" y="3264.8113" z="2822.1633" h="3"/>
+                </spawn>
+                <spawn npc_id="883518" respawn_time="295">
+                    <spot x="554.46027" y="3232.225" z="2823.1287" h="0"/>
+                </spawn>
+                <spawn npc_id="883519" respawn_time="295">
+                    <spot x="562.26746" y="3208.6252" z="2824.6033" h="40"/>
+                </spawn>
+                <spawn npc_id="883520" respawn_time="295">
+                    <spot x="555.9329" y="3199.2798" z="2824.9348" h="0"/>
+                </spawn>
+                <spawn npc_id="883521" respawn_time="295">
+                    <spot x="574.74005" y="3201.4805" z="2825.6475" h="4"/>
+                </spawn>
+                <spawn npc_id="883523" respawn_time="295">
+                    <spot x="777.3483" y="3358.9343" z="2897.819" h="113"/>
+                    <spot x="751.2604" y="3381.101" z="2903.3733" h="116"/>
+                    <spot x="704.5888" y="3391.128" z="2912.7776" h="51"/>
+                    <spot x="783.28503" y="3391.8733" z="2903.5122" h="0"/>
+                </spawn>
+                <spawn npc_id="883524" respawn_time="295">
+                    <spot x="770.1301" y="3370.649" z="2900.821" h="117"/>
+                </spawn>
+                <spawn npc_id="883525" respawn_time="295">
+                    <spot x="720.66833" y="3376.9749" z="2905.4382" h="0"/>
+                </spawn>
+                <spawn npc_id="883526" respawn_time="295">
+                    <spot x="775.28827" y="3383.7273" z="2903.447" h="0"/>
+                </spawn>
+                <spawn npc_id="883527" respawn_time="295">
+                    <spot x="742.96497" y="3373.9817" z="2901.687" h="3"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Smoldergeist Outpost Flag -->
+                <spawn npc_id="805468">
+                    <spot x="697.71118" y="3186.2139" z="2945.3616" h="119"/>
+                </spawn>            
+                <spawn npc_id="883196" handler="BOSS">
+                    <spot x="699.67249" y="3182.9934" z="2916.3474" h="103"/>
+                </spawn>
+                <spawn npc_id="805399" respawn_time="295">
+                    <spot x="693.3757" y="3187.5217" z="2915.1511" h="56"/>
+                </spawn>
+                <spawn npc_id="805552" respawn_time="295">
+                    <spot x="701.08496" y="3189.6228" z="2915.1504" h="13"/>
+                </spawn>
+                <spawn npc_id="805553" respawn_time="295">
+                    <spot x="698.9894" y="3190.6533" z="2915.1504" h="26"/>
+                </spawn>
+                <spawn npc_id="805554" respawn_time="295">
+                    <spot x="696.5772" y="3190.7834" z="2915.1506" h="36"/>
+                </spawn>
+                <spawn npc_id="805590" respawn_time="295">
+                    <spot x="694.50885" y="3189.4985" z="2915.151" h="46"/>
+                </spawn>
+                <spawn npc_id="883197" respawn_time="295">
+                    <spot x="724.6989" y="3175.2515" z="2910.0066" h="0"/>
+                    <spot x="673.9566" y="3170.3645" z="2909.4546" h="73"/>
+                    <spot x="702.8479" y="3213.7456" z="2910.2954" h="33"/>
+                </spawn>
+                <spawn npc_id="883198" respawn_time="295">
+                    <spot x="702.1393" y="3169.9648" z="2914.4883" h="103"/>
+                    <spot x="695.86005" y="3182.9622" z="2915.456" h="80"/>
+                </spawn>
+                <spawn npc_id="883199" respawn_time="295">
+                    <spot x="701.57367" y="3186.2612" z="2915.4568" h="0"/>
+                </spawn>
+                <spawn npc_id="883200" respawn_time="295">
+                    <spot x="718.7145" y="3176.0054" z="2912.0076" h="116"/>
+                    <spot x="682.10803" y="3176.4731" z="2913.576" h="116"/>
+                    <spot x="702.6717" y="3202.1875" z="2914.8005" h="23"/>
+                </spawn>
+                <spawn npc_id="883201" respawn_time="295">
+                    <spot x="712.61444" y="3192.7703" z="2914.414" h="10"/>
+                    <spot x="687.71295" y="3198.936" z="2914.7256" h="116"/>
+                </spawn>
+
+                <spawn npc_id="883517" respawn_time="295">
+                    <spot x="586.72253" y="3224.4922" z="2823.935" h="36"/>
+                    <spot x="536.27466" y="3264.7605" z="2823.007" h="54"/>
+                    <spot x="565.1541" y="3184.779" z="2826.1711" h="78"/>
+                    <spot x="538.14325" y="3211.839" z="2825.1064" h="61"/>
+                </spawn>
+                <spawn npc_id="883518" respawn_time="295">
+                    <spot x="546.54645" y="3232.8452" z="2823.7034" h="71"/>
+                </spawn>
+                <spawn npc_id="883519" respawn_time="295">
+                    <spot x="560.15924" y="3213.8486" z="2824.1038" h="83"/>
+                </spawn>
+                <spawn npc_id="883520" respawn_time="295">
+                    <spot x="562.9018" y="3199.478" z="2825.1548" h="21"/>
+                </spawn>
+                <spawn npc_id="883521" respawn_time="295">
+                    <spot x="576.55066" y="3204.8516" z="2825.346" h="53"/>
+                </spawn>
+                <spawn npc_id="883529" respawn_time="295">
+                    <spot x="777.3916" y="3359.0806" z="2897.8887" h="116"/>
+                    <spot x="751.2816" y="3381.3032" z="2903.4402" h="0"/>
+                    <spot x="705.6452" y="3385.6406" z="2911.9663" h="115"/>
+                    <spot x="783.2205" y="3391.525" z="2903.5522" h="113"/>
+                </spawn>
+                <spawn npc_id="883530" respawn_time="295">
+                    <spot x="770.1405" y="3370.8464" z="2900.8757" h="1"/>
+                </spawn>
+                <spawn npc_id="883531" respawn_time="295">
+                    <spot x="720.66833" y="3376.9749" z="2905.4382" h="0"/>
+                </spawn>
+                <spawn npc_id="883532" respawn_time="295">
+                    <spot x="775.28827" y="3383.7273" z="2903.447" h="0"/>
+                </spawn>
+                <spawn npc_id="883533" respawn_time="295">
+                    <spot x="738.08887" y="3374.3672" z="2902.9568" h="0"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Smoldergeist Outpost Flag -->
+                <spawn npc_id="805470">
+                    <spot x="697.71118" y="3186.2139" z="2945.3616" h="119"/>
+                </spawn>            
+                <spawn npc_id="883040" handler="BOSS">
+                    <spot x="699.6725" y="3182.9934" z="2915.4607" h="103"/>
+                </spawn>
+                <spawn npc_id="883516" handler="ATTACKER">
+                    <spot x="702.5719" y="3178.1187" z="2915.237" h="119"/>
+                </spawn>
+                <spawn npc_id="883041" respawn_time="295">
+                    <spot x="724.6989" y="3175.2515" z="2910.0066" h="0"/>
+                    <spot x="702.8479" y="3213.7456" z="2910.2954" h="33"/>
+                    <spot x="673.9566" y="3170.3645" z="2909.4546" h="73"/>
+                </spawn>
+                <spawn npc_id="883042" respawn_time="295">
+                    <spot x="702.1393" y="3169.9648" z="2914.4883" h="103"/>
+                    <spot x="695.86005" y="3182.9622" z="2915.456" h="80"/>
+                </spawn>
+                <spawn npc_id="883043" respawn_time="295">
+                    <spot x="701.57367" y="3186.2612" z="2915.4568" h="0"/>
+                </spawn>
+                <spawn npc_id="883044" respawn_time="295">
+                    <spot x="718.7145" y="3176.0054" z="2912.0076" h="113"/>
+                    <spot x="702.6717" y="3202.1875" z="2914.8005" h="23"/>
+                    <spot x="682.10803" y="3176.4731" z="2913.576" h="70"/>
+                </spawn>
+                <spawn npc_id="883045" respawn_time="295">
+                    <spot x="712.61444" y="3192.7703" z="2914.414" h="10"/>
+                    <spot x="687.71295" y="3198.936" z="2914.7256" h="50"/>
+                </spawn>
+
+                <spawn npc_id="883819" respawn_time="295">
+                    <spot x="702.42365" y="3389.5803" z="2913.3528" h="17"/>
+                    <spot x="749.67694" y="3375.9148" z="2901.7026" h="58"/>
+                    <spot x="780.40936" y="3359.5137" z="2898.356" h="15"/>
+                    <spot x="783.7552" y="3390.8313" z="2903.648" h="34"/>
+                    <spot x="586.4392" y="3220.839" z="2824.2559" h="2"/>
+                    <spot x="545.4368" y="3265.7988" z="2822.0503" h="12"/>
+                    <spot x="569.09973" y="3184.059" z="2826.6265" h="2"/>
+                    <spot x="545.3585" y="3213.5923" z="2824.707" h="105"/>
+                </spawn>
+                <spawn npc_id="883820" respawn_time="295">
+                    <spot x="772.48065" y="3367.3845" z="2900.0442" h="13"/>
+                    <spot x="556.36334" y="3232.225" z="2822.9338" h="6"/>
+                </spawn>
+                <spawn npc_id="883821" respawn_time="295">
+                    <spot x="721.1821" y="3381.25" z="2906.8215" h="22"/>
+                    <spot x="562.2464" y="3222.7573" z="2823.4163" h="38"/>
+                </spawn>
+                <spawn npc_id="883822" respawn_time="295">
+                    <spot x="772.63464" y="3379.223" z="2902.7178" h="60"/>
+                    <spot x="558.3079" y="3199.0493" z="2824.837" h="117"/>
+                </spawn>
+                <spawn npc_id="883823" respawn_time="295">
+                    <spot x="741.2804" y="3373.2915" z="2901.8276" h="5"/>
+                    <spot x="576.4469" y="3202.2476" z="2825.6013" h="10"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+
+        <!-- Update Balaur, Asmos and Elyos Spawns - 02.10.16 -->
+        <base_spawn id="149"> <!-- Moltenspike Outpost (Base 65) -->
+            <simple_race race="ASMODIANS">
+                <!-- Moltenspike Outpost Flag -->
+                <spawn npc_id="805472">
+                    <spot x="826.46216" y="3033.3604" z="3080.7495" h="119"/>
+                </spawn>            
+                <spawn npc_id="883214" handler="BOSS">
+                    <spot x="823.46045" y="3033.1238" z="3052.907" h="61"/>
+                </spawn>
+                <spawn npc_id="805423" respawn_time="295">
+                    <spot x="830.8672" y="3028.556" z="3052.088" h="0"/>
+                </spawn>                
+                <spawn npc_id="805561" respawn_time="295">
+                    <spot x="832.78925" y="3031.5269" z="3052.088" h="0"/>
+                </spawn>
+                <spawn npc_id="805562" respawn_time="295">
+                    <spot x="832.53687" y="3035.8103" z="3052.088" h="0"/>
+                </spawn>
+                <spawn npc_id="805563" respawn_time="295">
+                    <spot x="830.25726" y="3038.5693" z="3052.088" h="0"/>
+                </spawn>
+                <spawn npc_id="883215" respawn_time="295">
+                    <spot x="802.5696" y="3008.2349" z="3044.2861" h="90"/>
+                    <spot x="847.8261" y="3016.1167" z="3047.3865" h="0"/>
+                    <spot x="820.92596" y="3064.3352" z="3044.8005" h="43"/>
+                </spawn>
+                <spawn npc_id="883216" respawn_time="295">
+                    <spot x="825.01086" y="3016.806" z="3051.3418" h="90"/>
+                    <spot x="825.6259" y="3029.6262" z="3052.3945" h="83"/>
+                </spawn>
+                <spawn npc_id="883217" respawn_time="295">
+                    <spot x="825.3362" y="3036.817" z="3052.3894" h="36"/>
+                </spawn>
+                <spawn npc_id="883218" respawn_time="295">
+                    <spot x="808.30536" y="3020.1255" z="3049.3782" h="73"/>
+                    <spot x="838.1598" y="3019.2007" z="3051.341" h="110"/>
+                    <spot x="825.154" y="3050.6208" z="3051.0254" h="30"/>
+                </spawn>
+                <spawn npc_id="883219" respawn_time="295">
+                    <spot x="842.8671" y="3034.4558" z="3051.6716" h="6"/>
+                    <spot x="812.2547" y="3042.5264" z="3051.4736" h="50"/>
+                </spawn>
+
+                <spawn npc_id="883536" respawn_time="295">
+                    <spot x="932.02673" y="3183.4263" z="2906.425" h="83"/>
+                    <spot x="946.54395" y="3197.4404" z="2910.1582" h="76"/>
+                    <spot x="982.64197" y="3184.2544" z="2919.7656" h="91"/>
+                    <spot x="981.22253" y="3211.935" z="2922.6387" h="73"/>
+                </spawn>
+                <spawn npc_id="883537" respawn_time="295">
+                    <spot x="964.6082" y="3207.2776" z="2916.812" h="1"/>
+                </spawn>
+                <spawn npc_id="883538" respawn_time="295">
+                    <spot x="959.4164" y="3187.8765" z="2913.215" h="55"/>
+                </spawn>
+                <spawn npc_id="883539" respawn_time="295">
+                    <spot x="951.2656" y="3172.4902" z="2910.3289" h="79"/>
+                </spawn>
+                <spawn npc_id="883540" respawn_time="295">
+                    <spot x="981.8879" y="3200.703" z="2920.654" h="7"/>
+                </spawn>
+                <spawn npc_id="883542" respawn_time="295">
+                    <spot x="1011.71204" y="2952.0889" z="2923.5996" h="2"/>
+                    <spot x="1029.0249" y="2938.3938" z="2925.0898" h="69"/>
+                    <spot x="1005.2625" y="2915.2322" z="2915.4175" h="11"/>
+                    <spot x="1013.2211" y="2894.5474" z="2915.584" h="68"/>
+                </spawn>
+                <spawn npc_id="883543" respawn_time="295">
+                    <spot x="1025.9196" y="2914.495" z="2921.1582" h="46"/>
+                </spawn>
+                <spawn npc_id="883544" respawn_time="295">
+                    <spot x="1004.8661" y="2930.9756" z="2918.8992" h="0"/>
+                </spawn>
+                <spawn npc_id="883545">
+                    <spot x="1031.0106" y="2919.5623" z="2922.9944" h="79"/>
+                </spawn>
+                <spawn npc_id="883546" respawn_time="295">
+                    <spot x="985.3283" y="2927.2427" z="2913.9573" h="0"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <!-- Moltenspike Outpost Flag -->
+                <spawn npc_id="805471">
+                    <spot x="826.46216" y="3033.3604" z="3080.7495" h="119"/>
+                </spawn>            
+                <spawn npc_id="883208" handler="BOSS">
+                    <spot x="823.46045" y="3033.1238" z="3052.907" h="61"/>
+                </spawn>
+                <spawn npc_id="805400" respawn_time="295">
+                    <spot x="830.8672" y="3028.556" z="3052.088" h="0"/>
+                </spawn>
+                <spawn npc_id="805558" respawn_time="295">
+                    <spot x="832.78925" y="3031.5269" z="3052.088" h="0"/>
+                </spawn>
+                <spawn npc_id="805559" respawn_time="295">
+                    <spot x="832.53687" y="3035.8103" z="3052.088" h="0"/>
+                </spawn>
+                <spawn npc_id="805560" respawn_time="295">
+                    <spot x="830.25726" y="3038.5693" z="3052.088" h="0"/>
+                </spawn>
+                <spawn npc_id="883209" respawn_time="295">
+                    <spot x="847.8261" y="3016.1167" z="3047.3865" h="0"/>
+                    <spot x="820.92596" y="3064.3352" z="3044.8005" h="43"/>
+                    <spot x="802.5696" y="3008.2349" z="3044.2861" h="90"/>
+                </spawn>
+                <spawn npc_id="883210" respawn_time="295">
+                    <spot x="825.6259" y="3029.6262" z="3052.3945" h="83"/>
+                    <spot x="825.01086" y="3016.806" z="3051.3418" h="90"/>
+                </spawn>
+                <spawn npc_id="883211" respawn_time="295">
+                    <spot x="825.3362" y="3036.817" z="3052.3894" h="36"/>
+                </spawn>
+                <spawn npc_id="883212" respawn_time="295">
+                    <spot x="825.154" y="3050.6208" z="3051.0254" h="30"/>
+                    <spot x="838.1598" y="3019.2007" z="3051.341" h="110"/>
+                    <spot x="808.30536" y="3020.1255" z="3049.3782" h="73"/>
+                </spawn>
+                <spawn npc_id="883213" respawn_time="295">
+                    <spot x="842.8671" y="3034.4558" z="3051.6716" h="6"/>
+                    <spot x="812.2547" y="3042.5264" z="3051.4736" h="50"/>
+                </spawn>
+
+                <spawn npc_id="883536" respawn_time="295">
+                    <spot x="986.10364" y="3181.8054" z="2920.2153" h="19"/>
+                    <spot x="981.7188" y="3219.0503" z="2924.3694" h="119"/>
+                    <spot x="942.1207" y="3186.4011" z="2908.968" h="45"/>
+                    <spot x="950.98346" y="3199.9016" z="2911.6013" h="46"/>
+                </spawn>
+                <spawn npc_id="883537" respawn_time="295">
+                    <spot x="964.5755" y="3206.9663" z="2916.7341" h="115"/>
+                </spawn>
+                <spawn npc_id="883538" respawn_time="295">
+                    <spot x="960.29596" y="3187.0544" z="2913.4126" h="6"/>
+                </spawn>
+                <spawn npc_id="883539" respawn_time="295">
+                    <spot x="959.8302" y="3179.1606" z="2912.7458" h="19"/>
+                </spawn>
+                <spawn npc_id="883540" respawn_time="295">
+                    <spot x="980.0188" y="3200.4092" z="2920.0825" h="5"/>
+                </spawn>
+                <spawn npc_id="883548" respawn_time="295">
+                    <spot x="1011.8731" y="2953.8342" z="2923.8203" h="19"/>
+                    <spot x="1006.4989" y="2913.8225" z="2915.3992" h="119"/>
+                    <spot x="1029.2332" y="2939.5186" z="2925.2544" h="113"/>
+                    <spot x="1021.58295" y="2894.464" z="2919.1165" h="116"/>
+                </spawn>
+                <spawn npc_id="883549" respawn_time="295">
+                    <spot x="1020.9459" y="2908.5403" z="2918.5059" h="67"/>
+                </spawn>
+                <spawn npc_id="883550" respawn_time="295">
+                    <spot x="1004.8661" y="2930.9756" z="2918.8992" h="0"/>
+                </spawn>
+                <spawn npc_id="883551" respawn_time="295">
+                    <spot x="1035.565" y="2924.5667" z="2925.9163" h="90"/>
+                </spawn>
+                <spawn npc_id="883552" respawn_time="295">
+                    <spot x="990.62726" y="2925.5474" z="2914.509" h="1"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="NPC">
+                <!-- Moltenspike Outpost Flag -->
+                <spawn npc_id="805473">
+                    <spot x="826.46216" y="3033.3604" z="3080.7495" h="119"/>
+                </spawn>            
+                <spawn npc_id="883046" handler="BOSS">
+                    <spot x="823.46045" y="3033.1238" z="3052.604" h="60"/>
+                </spawn>
+                <spawn npc_id="883535" handler="ATTACKER">
+                    <spot x="817.703" y="3033.0715" z="3052.088" h="119"/>
+                </spawn>
+                <spawn npc_id="883047" respawn_time="295">
+                    <spot x="820.92596" y="3064.3352" z="3044.8005" h="43"/>
+                    <spot x="847.8261" y="3016.1167" z="3047.3865" h="0"/>
+                    <spot x="802.5696" y="3008.2349" z="3044.2861" h="90"/>
+                </spawn>
+                <spawn npc_id="883048" respawn_time="295">
+                    <spot x="825.6259" y="3029.6262" z="3052.3945" h="83"/>
+                    <spot x="825.01086" y="3016.806" z="3051.3418" h="90"/>
+                </spawn>
+                <spawn npc_id="883049" respawn_time="295">
+                    <spot x="825.3362" y="3036.817" z="3052.3894" h="36"/>
+                </spawn>
+                <spawn npc_id="883050" respawn_time="295">
+                    <spot x="825.154" y="3050.6208" z="3051.0254" h="30"/>
+                    <spot x="838.1598" y="3019.2007" z="3051.341" h="110"/>
+                    <spot x="808.30536" y="3020.1255" z="3049.3782" h="73"/>
+                </spawn>
+                <spawn npc_id="883051" respawn_time="295">
+                    <spot x="842.8671" y="3034.4558" z="3051.6716" h="6"/>
+                    <spot x="812.2547" y="3042.5264" z="3051.4736" h="50"/>
+                </spawn>
+
+                <spawn npc_id="883834" respawn_time="295">
+                    <spot x="1007.1578" y="2955.7332" z="2923.4163" h="17"/>
+                    <spot x="980.2226" y="3182.3254" z="2918.924" h="51"/>
+                    <spot x="974.9141" y="3217.3303" z="2922.018" h="69"/>
+                    <spot x="936.91406" y="3178.3079" z="2907.566" h="113"/>
+                    <spot x="947.9935" y="3200.3435" z="2910.771" h="13"/>
+                    <spot x="1021.99817" y="2937.302" z="2923.7634" h="49"/>
+                    <spot x="1005.23804" y="2917.55" z="2915.9382" h="37"/>
+                    <spot x="1021.1764" y="2892.954" z="2919.2437" h="27"/>
+                </spawn>
+                <spawn npc_id="883835" respawn_time="295">
+                    <spot x="957.8985" y="3207.137" z="2914.789" h="51"/>
+                    <spot x="1026.8519" y="2910.427" z="2920.6484" h="103"/>
+                </spawn>
+                <spawn npc_id="883836" respawn_time="295">
+                    <spot x="966.32465" y="3183.0618" z="2914.8772" h="92"/>
+                    <spot x="1002.31824" y="2934.8672" z="2919.161" h="38"/>
+                </spawn>
+                <spawn npc_id="883837" respawn_time="295">
+                    <spot x="948.9431" y="3173.87" z="2909.9602" h="36"/>
+                    <spot x="1027.6686" y="2924.2876" z="2923.2446" h="111"/>
+                </spawn>
+                <spawn npc_id="883838" respawn_time="295">
+                    <spot x="976.4182" y="3194.228" z="2918.6038" h="35"/>
+                    <spot x="987.0757" y="2927.9087" z="2914.3525" h="55"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+    </spawn_map>
+</spawns>

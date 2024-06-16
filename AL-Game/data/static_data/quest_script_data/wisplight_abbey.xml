@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- parsed by phpTools from Aion Germany Group (Mariella) at 2016-06-17 15:24 -->
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+        [BEGIN] SUMMARY
+               19600 [SCRIPT] Welcome to Wisplight Abbey
+               19601 [SCRIPT] Meet Your Instructors
+               19602 [SCRIPT] Academies and Abbeys
+               19603 [SCRIPT] [Daily] Clipping the Commotion
+               19604 [SCRIPT] Drauped into Theobomos
+               19605 [SCRIPT] Through Dust and Rifts
+               19606 [SCRIPT] Adma's Riches
+               19607 [SCRIPT] The Darkness Beyond
+               19608 [SCRIPT] Be Prepared
+               19609 [SCRIPT] [Daily] Dealing with Dionaes
+               19610 [SCRIPT] Brimming Hollow
+               19611 [SCRIPT] Undermined in Undirborg
+               19612 [SCRIPT] Balaur in Beshmundir
+               19615 [SCRIPT] Hasten to Hariken
+               19617 [SCRIPT] Refuge no More
+               19618 [SCRIPT] Reinforcing Rentus
+               19619 [SCRIPT] Steal the Siel
+               19623 [SCRIPT] Still More in Levinshor
+               19624 [SCRIPT] Kaldor is Burning
+               19626 [SCRIPT] Fight on Ophidan
+               19627 [SCRIPT] Sanctuary Sanctioning
+               19628 [SCRIPT] Finding Linkgate Foundry
+               19629 [SCRIPT] Sorry, Sauro
+               19630 [SCRIPT] Threat at Illuminary Obelisk
+               19644 [SCRIPT] To the Land of the Unknown
+               19645 [SCRIPT] [Daily] Eliminating the Hindrance in the Supply Route
+               19646 [SCRIPT] What Beritra is After
+               19647 [SCRIPT] [Daily] Eukraton in Need
+               19648 [SCRIPT] Cooperation Request for Elimination of Beritra
+               19649 [SCRIPT] To Raksang Ruins
+               19650 [SCRIPT] [Daily] Warding the Old
+               19651 [SCRIPT] To Verteron
+               19652 [SCRIPT] [Daily] Forest for the Trees
+               19653 [SCRIPT] [Daily] Observing the Field
+               19654 [SCRIPT] To Haramel
+               19655 [SCRIPT] To Eltnen
+               19656 [SCRIPT] [Daily] Protect Eltnen Fortress
+               19657 [SCRIPT] [Daily] Protect Cascade Springs
+               19658 [SCRIPT] To Nochsana
+               19659 [SCRIPT] Into the Fire
+               19660 [SCRIPT] To Heiron Observatory
+               19661 [SCRIPT] [Daily] Protect Hieronopolis
+               19662 [SCRIPT] [Daily] Protect Poie Jungle
+               19663 [SCRIPT] To Arbolu's Haven
+               19664 [SCRIPT] [Daily] In a Manor of Trouble
+        [END] SUMMARY
+    -->
+	<!-- REPORTING QUESTS --> 
+	<!-- MONSTER HUNT QUESTS -->
+</quest_scripts>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- parsed by phpTools from Aion Germany Group (Mariella) at 2016-06-17 15:24 -->
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+        [BEGIN] SUMMARY
+               29600 [SCRIPT] Welcome Back
+               29601 [SCRIPT] Instruction on Instructors
+               29602 [TODO] The Sheen of Newness
+               29603 [TODO] [Daily] Brusthonin Brushback
+               29604 [SCRIPT] Drop into Draupnir
+               29605 [SCRIPT] Spiking the Spirits
+               29606 [SCRIPT] For Great Justice!
+               29607 [SCRIPT] Back to the Future from the Present
+               29608 [SCRIPT] Ready for Gelkmaros
+               29609 [TODO] [Daily] Trouble Near Taloc
+               29610 [SCRIPT] Aether Aegis
+               29611 [SCRIPT] Under a Spell in Undirborg
+               29612 [SCRIPT] Temple and Tomb
+               29615 [SCRIPT] Dredgion Dismantling
+               29617 [SCRIPT] A Time to Kill
+               29618 [SCRIPT] Recovering from Betrayal
+               29619 [SCRIPT] Reclaiming Relics
+               29623 [SCRIPT] Right Time for a War
+               29624 [SCRIPT] Flames and Stone
+               29626 [SCRIPT] A Game of Bridge
+               29627 [SCRIPT] Come Back with Friends
+               29628 [SCRIPT] Foundry-Field Link
+               29629 [SCRIPT] Hyperion before It was Cool
+               29630 [SCRIPT] Light Up the Obelisk
+               29644 [SCRIPT] Heading into the Unknown
+               29645 [TODO] [Daily] A Tidy Supply Route 
+               29646 [SCRIPT] Tasks Ahead
+               29647 [TODO] [Daily] Assisting Grangund
+               29648 [SCRIPT] Supporting Sefrim
+               29649 [SCRIPT] Raksang Ruins Roundup
+               29650 [TODO] [Daily] Protect Whirlpool Temple
+               29651 [SCRIPT] To Altgard
+               29652 [TODO] [Daily] Protect Moslan Forest
+               29653 [TODO] Protect Impetusium
+               29654 [SCRIPT] To Haramel
+               29655 [SCRIPT] To Morheim
+               29656 [TODO] [Daily] Protect Morheim
+               29657 [TODO] [Daily] Protect the Salt Desert
+               29658 [SCRIPT] To the Nochsana Training Camp
+               29659 [SCRIPT] To the Fire Temple
+               29660 [SCRIPT] To Beluslan
+               29661 [TODO] [Daily] Protect Beluslan
+               29662 [TODO] [Daily] Protect Kidorun's Campsite
+               29663 [SCRIPT] To Red Mane Cavern
+               29664 [TODO] [Daily] Protect Hoarfrost Shelter
+        [END] SUMMARY
+    -->
+	<!-- REPORTING QUESTS -->
+	<!-- MONSTER HUNT QUESTS -->
+</quest_scripts>
