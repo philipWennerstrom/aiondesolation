@@ -2016,6 +2016,10 @@
 		<spawn npc_id="278147" respawn_time="295">
 			<spot x="1061.3705" y="2890.8362" z="1636.1458" h="90"/>
 		</spawn>
+		<!-- Kuenunerk |||  -->
+		<spawn npc_id="279019" respawn_time="295">
+			<spot x="2961.0232" y="2912.849" z="1444.1284" h="68"/>
+		</spawn>
 		<!-- Nenekunerk ||| shugo_Lender_ab1D_01 -->
 		<spawn npc_id="278148" respawn_time="295">
 			<spot x="968.43365" y="3019.5554" z="1641.623" h="45"/>
