@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spawns>
     <spawn_map map_id="300170000">
+        <!-- Stormwing -->
+        <spawn npc_id="216183">
+            <spot x="558.306" y="1369.02" z="224.795" h="70">
+        </spawn>
         <!-- Flarestorm -->
         <spawn npc_id="216168">
             <spot x="1511.69" y="1048.16" z="273.441" h="42"/>
